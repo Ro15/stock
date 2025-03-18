@@ -12,4 +12,10 @@ STOCKS = [
     {"symbol": "MSFT", "exchange": "NASDAQ", "rsi_overbought": 70, "rsi_oversold": 30, "adx_threshold": 26, "volume_threshold": 190000},
 ]
 
+TELEGRAM_BOT_TOKEN = {"primary":"7996722753:AAF2wJHA2AxWxg3AHYRTgUpPsMkmxrSitnI"
+                      #"secondary":"7343346012:AAFiMGtLYFyV07-e9CfEPqeDzGVSArd7jaY"
+                      }
 
+TELEGRAM_CHAT_ID = {"primary":"5620276632"
+                   # "secondary":"5662316389"
+                    }
