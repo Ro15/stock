@@ -1,17 +1,23 @@
 import logging
-from indicators import get_multi_timeframe_analysis, detect_trend_condition, estimate_win_probability
+from indicators import (
+    get_multi_timeframe_analysis, 
+    detect_trend_condition, 
+    estimate_win_probability, 
+    calculate_support_resistance
+)
 from alerts import send_trade_alert
-from indicators import calculate_support_resistance
 
 def analyze_stock(stock):
+    """Analyzes stock data, determines trade conditions, and sends alerts if criteria are met."""
     logging.info(f"📊 Fetching data for {stock['symbol']}...")
 
+    # ✅ **Fetch Multi-Timeframe Analysis Data**
     data = get_multi_timeframe_analysis(stock)
     if not data:
         logging.warning(f"⚠️ Skipping {stock['symbol']} due to missing data")
         return
 
-    # Extract indicators
+    # ✅ **Extract Technical Indicators (5-Min Timeframe)**
     close_price = data["5m"].get("Close")
     rsi_5m = data["5m"].get("RSI")
     macd_5m = data["5m"].get("MACD")
@@ -24,16 +30,10 @@ def analyze_stock(stock):
     # ✅ **Fetch Support & Resistance**
     support_5m, resistance_5m = calculate_support_resistance(stock["symbol"])
 
-    # ✅ **Fix Handling of `detect_trend_condition()`**
-    trend_info = detect_trend_condition(adx_5m, ema50_5m, close_price)
+    # ✅ **Detect Trend Condition**
+    trend_condition, trend_strength = detect_trend_condition(adx_5m, ema50_5m, close_price)
 
-    if isinstance(trend_info, tuple):  # If it returns multiple values
-        trend_condition, trend_strength = trend_info
-    else:  # If it returns only one value
-        trend_condition = trend_info
-        trend_strength = "N/A"
-
-    # ✅ **Pass Both Values Correctly**
+    # ✅ **Estimate Win Probability**
     win_prob = estimate_win_probability(rsi_5m, macd_5m, macd_signal_5m, adx_5m, trend_condition, trend_strength)
 
     # ✅ **Ensure All Data Is Logged**
@@ -49,11 +49,41 @@ def analyze_stock(stock):
         - Win Probability: {win_prob}%
     """)
 
-    # ✅ **Check Trade Conditions**
+    # ✅ **Check for Trade Setup Conditions**
     if (
         adx_5m >= stock["adx_threshold"] and
         ((rsi_5m >= stock["rsi_overbought"] and macd_5m > macd_signal_5m) or
          (rsi_5m <= stock["rsi_oversold"] and macd_5m < macd_signal_5m))
     ):
         trade_type = "CALL" if rsi_5m >= stock["rsi_overbought"] else "PUT"
-        send_trade_alert(stock, trade_type, close_price, support_5m, resistance_5m, rsi_5m, macd_5m, macd_signal_5m, adx_5m, atr_5m, volume, trend_condition, win_prob)
+        
+        # ✅ **Send Trade Alert**
+        send_trade_alert(
+            stock, trade_type, close_price, support_5m, resistance_5m, 
+            rsi_5m, macd_5m, macd_signal_5m, adx_5m, atr_5m, volume, trend_condition, win_prob
+        )
+
+    # ✅ **Near-Setup Alerts (If Close to Trade Condition)**
+    elif (
+        adx_5m >= stock["adx_threshold"] - 2 and  # ✅ **Within 2 points of ADX threshold**
+        ((rsi_5m >= stock["rsi_overbought"] - 2 and macd_5m > macd_signal_5m) or
+         (rsi_5m <= stock["rsi_oversold"] + 2 and macd_5m < macd_signal_5m))
+    ):
+        logging.warning(f"⚠️ Near Setup Alert for {stock['symbol']} - Monitoring for Confirmation")
+
+        # ✅ **Send Near Setup Alert**
+        send_trade_alert(
+            stock, 
+            "NEAR SETUP ALERT!",  # Mark as Near Setup
+            close_price, 
+            support_5m, 
+            resistance_5m, 
+            rsi_5m, 
+            macd_5m, 
+            macd_signal_5m, 
+            adx_5m, 
+            atr_5m, 
+            volume, 
+            trend_condition, 
+            win_prob
+        )

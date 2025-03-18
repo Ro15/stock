@@ -22957,3 +22957,2299 @@
     
 2025-03-17 22:00:52,279 - INFO - 📩 Telegram Alert Sent Successfully
 2025-03-17 22:00:52,281 - INFO - Waiting for the next cycle...
+2025-03-17 22:05:27,646 - INFO - 📊 Fetching data for AAPL...
+2025-03-17 22:05:27,646 - INFO - Fetching TradingView data for AAPL...
+2025-03-17 22:05:28,458 - INFO - 📊 Volume for AAPL: 3436029
+2025-03-17 22:05:28,638 - INFO - 📊 Indicators for AAPL:
+        - Close Price: 214.15
+        - RSI: 49.5771058 (Overbought: 70 / Oversold: 30)
+        - MACD: 0.36859851 | MACD Signal: 0.48183421
+        - ADX: 40.96149437 (Threshold: 25)
+        - ATR: 0.38
+        - Volume: 3436029 (Threshold: 100000)
+        - Support: 210.68 | Resistance: 248.62 ✅ FIXED
+        - Trend: Trending 🔥 (Strong)
+        - Win Probability: 85%
+    
+2025-03-17 22:05:28,638 - INFO - 📊 Fetching data for TSLA...
+2025-03-17 22:05:28,638 - INFO - Fetching TradingView data for TSLA...
+2025-03-17 22:05:29,008 - INFO - 📊 Volume for TSLA: 2551244
+2025-03-17 22:05:29,182 - INFO - 📊 Indicators for TSLA:
+        - Close Price: 237.8
+        - RSI: 46.80081482 (Overbought: 75 / Oversold: 25)
+        - MACD: 0.20926885 | MACD Signal: 0.38603437
+        - ADX: 21.90479601 (Threshold: 30)
+        - ATR: 1.02
+        - Volume: 2551244 (Threshold: 200000)
+        - Support: 225.52 | Resistance: 361.96 ✅ FIXED
+        - Trend: Neutral (Moderate)
+        - Win Probability: 50%
+    
+2025-03-17 22:05:29,183 - INFO - 📊 Fetching data for NVDA...
+2025-03-17 22:05:29,183 - INFO - Fetching TradingView data for NVDA...
+2025-03-17 22:05:29,603 - INFO - 📊 Volume for NVDA: 8235243
+2025-03-17 22:05:29,778 - INFO - 📊 Indicators for NVDA:
+        - Close Price: 119.48
+        - RSI: 38.53240707 (Overbought: 72 / Oversold: 28)
+        - MACD: 0.04096737 | MACD Signal: 0.18758759
+        - ADX: 19.95122576 (Threshold: 28)
+        - ATR: 0.37
+        - Volume: 8235243 (Threshold: 150000)
+        - Support: 106.83 | Resistance: 140.71 ✅ FIXED
+        - Trend: Ranging ⚖️ (Weak)
+        - Win Probability: 50%
+    
+2025-03-17 22:05:29,778 - INFO - 📊 Fetching data for AMZN...
+2025-03-17 22:05:29,778 - INFO - Fetching TradingView data for AMZN...
+2025-03-17 22:05:30,116 - INFO - 📊 Volume for AMZN: 3095128
+2025-03-17 22:05:30,271 - INFO - 📊 Indicators for AMZN:
+        - Close Price: 195.85
+        - RSI: 27.40751692 (Overbought: 68 / Oversold: 32)
+        - MACD: -0.08230934 | MACD Signal: 0.1716811
+        - ADX: 23.29075983 (Threshold: 22)
+        - ATR: 0.52
+        - Volume: 3095128 (Threshold: 180000)
+        - Support: 192.54 | Resistance: 225.34 ✅ FIXED
+        - Trend: Neutral (Moderate)
+        - Win Probability: 55%
+    
+2025-03-17 22:05:30,740 - INFO - 📩 Telegram Alert Sent Successfully
+2025-03-17 22:05:30,742 - INFO - 📊 Fetching data for META...
+2025-03-17 22:05:30,742 - INFO - Fetching TradingView data for META...
+2025-03-17 22:05:31,065 - INFO - 📊 Volume for META: 749562
+2025-03-17 22:05:31,249 - INFO - 📊 Indicators for META:
+        - Close Price: 604.71
+        - RSI: 50.39792712 (Overbought: 73 / Oversold: 27)
+        - MACD: 0.64316968 | MACD Signal: 0.87263337
+        - ADX: 27.24862025 (Threshold: 29)
+        - ATR: 1.28
+        - Volume: 749562 (Threshold: 160000)
+        - Support: 591.73 | Resistance: 707.14 ✅ FIXED
+        - Trend: Trending 🔥 (Strong)
+        - Win Probability: 75%
+    
+2025-03-17 22:05:31,249 - INFO - 📊 Fetching data for GOOGL...
+2025-03-17 22:05:31,249 - INFO - Fetching TradingView data for GOOGL...
+2025-03-17 22:05:31,694 - INFO - 📊 Volume for GOOGL: 2584686
+2025-03-17 22:05:31,821 - INFO - 📊 Indicators for GOOGL:
+        - Close Price: 164.22
+        - RSI: 32.63853839 (Overbought: 71 / Oversold: 29)
+        - MACD: -0.07355063 | MACD Signal: 0.02026669
+        - ADX: 19.9864684 (Threshold: 27)
+        - ATR: 0.33
+        - Volume: 2584686 (Threshold: 140000)
+        - Support: 162.78 | Resistance: 184.99 ✅ FIXED
+        - Trend: Ranging ⚖️ (Weak)
+        - Win Probability: 50%
+    
+2025-03-17 22:05:31,821 - INFO - 📊 Fetching data for AMD...
+2025-03-17 22:05:31,821 - INFO - Fetching TradingView data for AMD...
+2025-03-17 22:05:32,209 - INFO - 📊 Volume for AMD: 1792105
+2025-03-17 22:05:32,491 - INFO - 📊 Indicators for AMD:
+        - Close Price: 104.59
+        - RSI: 30.97440114 (Overbought: 74 / Oversold: 26)
+        - MACD: 0.00816528 | MACD Signal: 0.16390681
+        - ADX: 22.48754063 (Threshold: 30)
+        - ATR: 0.27
+        - Volume: 1792105 (Threshold: 120000)
+        - Support: 96.01 | Resistance: 115.16 ✅ FIXED
+        - Trend: Neutral (Moderate)
+        - Win Probability: 45%
+    
+2025-03-17 22:05:32,493 - INFO - 📊 Fetching data for BABA...
+2025-03-17 22:05:32,493 - INFO - Fetching TradingView data for BABA...
+2025-03-17 22:05:32,901 - INFO - 📊 Volume for BABA: 1162699
+2025-03-17 22:05:33,058 - INFO - 📊 Indicators for BABA:
+        - Close Price: 147.62
+        - RSI: 46.23129425 (Overbought: 69 / Oversold: 31)
+        - MACD: 0.05547062 | MACD Signal: 0.10375086
+        - ADX: 25.22333515 (Threshold: 25)
+        - ATR: 0.34
+        - Volume: 1162699 (Threshold: 130000)
+        - Support: 126.01 | Resistance: 145.43 ✅ FIXED
+        - Trend: Trending 🔥 (Strong)
+        - Win Probability: 75%
+    
+2025-03-17 22:05:33,060 - INFO - 📊 Fetching data for COIN...
+2025-03-17 22:05:33,060 - INFO - Fetching TradingView data for COIN...
+2025-03-17 22:05:33,580 - INFO - 📊 Volume for COIN: 304533
+2025-03-17 22:05:33,748 - INFO - 📊 Indicators for COIN:
+        - Close Price: 188.95
+        - RSI: 35.72928289 (Overbought: 72 / Oversold: 28)
+        - MACD: 0.13494107 | MACD Signal: 0.68497817
+        - ADX: 38.50396887 (Threshold: 28)
+        - ATR: 0.92
+        - Volume: 304533 (Threshold: 100000)
+        - Support: 179.58 | Resistance: 264.7 ✅ FIXED
+        - Trend: Neutral (Moderate)
+        - Win Probability: 55%
+    
+2025-03-17 22:05:33,748 - INFO - 📊 Fetching data for MSFT...
+2025-03-17 22:05:33,748 - INFO - Fetching TradingView data for MSFT...
+2025-03-17 22:05:34,137 - INFO - 📊 Volume for MSFT: 1733224
+2025-03-17 22:05:34,305 - INFO - 📊 Indicators for MSFT:
+        - Close Price: 388.78
+        - RSI: 29.31189448 (Overbought: 70 / Oversold: 30)
+        - MACD: 0.12172316 | MACD Signal: 0.4900626
+        - ADX: 28.93714664 (Threshold: 26)
+        - ATR: 0.63
+        - Volume: 1733224 (Threshold: 190000)
+        - Support: 378.35 | Resistance: 416.34 ✅ FIXED
+        - Trend: Neutral (Moderate)
+        - Win Probability: 65%
+    
+2025-03-17 22:05:34,808 - INFO - 📩 Telegram Alert Sent Successfully
+2025-03-17 22:05:34,808 - INFO - Waiting for the next cycle...
+2025-03-17 22:08:34,811 - INFO - 📊 Fetching data for AAPL...
+2025-03-17 22:08:34,813 - INFO - Fetching TradingView data for AAPL...
+2025-03-17 22:08:35,380 - INFO - 📊 Volume for AAPL: 3436029
+2025-03-17 22:08:35,641 - INFO - 📊 Indicators for AAPL:
+        - Close Price: 214.15
+        - RSI: 49.5771058 (Overbought: 70 / Oversold: 30)
+        - MACD: 0.36859851 | MACD Signal: 0.48183421
+        - ADX: 40.96149437 (Threshold: 25)
+        - ATR: 0.38
+        - Volume: 3436029 (Threshold: 100000)
+        - Support: 210.68 | Resistance: 248.62 ✅ FIXED
+        - Trend: Trending 🔥 (Strong)
+        - Win Probability: 85%
+    
+2025-03-17 22:08:35,643 - INFO - 📊 Fetching data for TSLA...
+2025-03-17 22:08:35,643 - INFO - Fetching TradingView data for TSLA...
+2025-03-17 22:08:36,163 - INFO - 📊 Volume for TSLA: 2551244
+2025-03-17 22:08:36,350 - INFO - 📊 Indicators for TSLA:
+        - Close Price: 237.8
+        - RSI: 46.80081482 (Overbought: 75 / Oversold: 25)
+        - MACD: 0.20926885 | MACD Signal: 0.38603437
+        - ADX: 21.90479601 (Threshold: 30)
+        - ATR: 1.02
+        - Volume: 2551244 (Threshold: 200000)
+        - Support: 225.52 | Resistance: 361.96 ✅ FIXED
+        - Trend: Neutral (Moderate)
+        - Win Probability: 50%
+    
+2025-03-17 22:08:36,358 - INFO - 📊 Fetching data for NVDA...
+2025-03-17 22:08:36,358 - INFO - Fetching TradingView data for NVDA...
+2025-03-17 22:08:36,764 - INFO - 📊 Volume for NVDA: 8235243
+2025-03-17 22:08:36,949 - INFO - 📊 Indicators for NVDA:
+        - Close Price: 119.48
+        - RSI: 38.53240707 (Overbought: 72 / Oversold: 28)
+        - MACD: 0.04096737 | MACD Signal: 0.18758759
+        - ADX: 19.95122576 (Threshold: 28)
+        - ATR: 0.37
+        - Volume: 8235243 (Threshold: 150000)
+        - Support: 106.83 | Resistance: 140.71 ✅ FIXED
+        - Trend: Ranging ⚖️ (Weak)
+        - Win Probability: 50%
+    
+2025-03-17 22:08:36,949 - INFO - 📊 Fetching data for AMZN...
+2025-03-17 22:08:36,949 - INFO - Fetching TradingView data for AMZN...
+2025-03-17 22:08:37,320 - INFO - 📊 Volume for AMZN: 3095128
+2025-03-17 22:08:37,447 - INFO - 📊 Indicators for AMZN:
+        - Close Price: 195.85
+        - RSI: 27.40751692 (Overbought: 68 / Oversold: 32)
+        - MACD: -0.08230934 | MACD Signal: 0.1716811
+        - ADX: 23.29075983 (Threshold: 22)
+        - ATR: 0.52
+        - Volume: 3095128 (Threshold: 180000)
+        - Support: 192.54 | Resistance: 225.34 ✅ FIXED
+        - Trend: Neutral (Moderate)
+        - Win Probability: 55%
+    
+2025-03-17 22:08:37,893 - INFO - 📩 Telegram Alert Sent Successfully
+2025-03-17 22:08:37,894 - INFO - 📊 Fetching data for META...
+2025-03-17 22:08:37,894 - INFO - Fetching TradingView data for META...
+2025-03-17 22:08:38,290 - INFO - 📊 Volume for META: 749562
+2025-03-17 22:08:38,475 - INFO - 📊 Indicators for META:
+        - Close Price: 604.71
+        - RSI: 50.39792712 (Overbought: 73 / Oversold: 27)
+        - MACD: 0.64316968 | MACD Signal: 0.87263337
+        - ADX: 27.24862025 (Threshold: 29)
+        - ATR: 1.28
+        - Volume: 749562 (Threshold: 160000)
+        - Support: 591.73 | Resistance: 707.14 ✅ FIXED
+        - Trend: Trending 🔥 (Strong)
+        - Win Probability: 75%
+    
+2025-03-17 22:08:38,476 - INFO - 📊 Fetching data for GOOGL...
+2025-03-17 22:08:38,476 - INFO - Fetching TradingView data for GOOGL...
+2025-03-17 22:08:38,940 - INFO - 📊 Volume for GOOGL: 2584686
+2025-03-17 22:08:39,086 - INFO - 📊 Indicators for GOOGL:
+        - Close Price: 164.22
+        - RSI: 32.63853839 (Overbought: 71 / Oversold: 29)
+        - MACD: -0.07355063 | MACD Signal: 0.02026669
+        - ADX: 19.9864684 (Threshold: 27)
+        - ATR: 0.33
+        - Volume: 2584686 (Threshold: 140000)
+        - Support: 162.78 | Resistance: 184.99 ✅ FIXED
+        - Trend: Ranging ⚖️ (Weak)
+        - Win Probability: 50%
+    
+2025-03-17 22:08:39,086 - INFO - 📊 Fetching data for AMD...
+2025-03-17 22:08:39,086 - INFO - Fetching TradingView data for AMD...
+2025-03-17 22:08:39,499 - INFO - 📊 Volume for AMD: 1792105
+2025-03-17 22:08:39,683 - INFO - 📊 Indicators for AMD:
+        - Close Price: 104.59
+        - RSI: 30.97440114 (Overbought: 74 / Oversold: 26)
+        - MACD: 0.00816528 | MACD Signal: 0.16390681
+        - ADX: 22.48754063 (Threshold: 30)
+        - ATR: 0.27
+        - Volume: 1792105 (Threshold: 120000)
+        - Support: 96.01 | Resistance: 115.16 ✅ FIXED
+        - Trend: Neutral (Moderate)
+        - Win Probability: 45%
+    
+2025-03-17 22:08:39,683 - INFO - 📊 Fetching data for BABA...
+2025-03-17 22:08:39,688 - INFO - Fetching TradingView data for BABA...
+2025-03-17 22:08:40,073 - INFO - 📊 Volume for BABA: 1162699
+2025-03-17 22:08:40,220 - INFO - 📊 Indicators for BABA:
+        - Close Price: 147.62
+        - RSI: 46.23129425 (Overbought: 69 / Oversold: 31)
+        - MACD: 0.05547062 | MACD Signal: 0.10375086
+        - ADX: 25.22333515 (Threshold: 25)
+        - ATR: 0.34
+        - Volume: 1162699 (Threshold: 130000)
+        - Support: 126.01 | Resistance: 145.43 ✅ FIXED
+        - Trend: Trending 🔥 (Strong)
+        - Win Probability: 75%
+    
+2025-03-17 22:08:40,220 - INFO - 📊 Fetching data for COIN...
+2025-03-17 22:08:40,224 - INFO - Fetching TradingView data for COIN...
+2025-03-17 22:08:40,648 - INFO - 📊 Volume for COIN: 304533
+2025-03-17 22:08:40,824 - INFO - 📊 Indicators for COIN:
+        - Close Price: 188.95
+        - RSI: 35.72928289 (Overbought: 72 / Oversold: 28)
+        - MACD: 0.13494107 | MACD Signal: 0.68497817
+        - ADX: 38.50396887 (Threshold: 28)
+        - ATR: 0.92
+        - Volume: 304533 (Threshold: 100000)
+        - Support: 179.58 | Resistance: 264.7 ✅ FIXED
+        - Trend: Neutral (Moderate)
+        - Win Probability: 55%
+    
+2025-03-17 22:08:40,825 - INFO - 📊 Fetching data for MSFT...
+2025-03-17 22:08:40,825 - INFO - Fetching TradingView data for MSFT...
+2025-03-17 22:08:41,251 - INFO - 📊 Volume for MSFT: 1733224
+2025-03-17 22:08:41,526 - INFO - 📊 Indicators for MSFT:
+        - Close Price: 388.78
+        - RSI: 29.31189448 (Overbought: 70 / Oversold: 30)
+        - MACD: 0.12172316 | MACD Signal: 0.4900626
+        - ADX: 28.93714664 (Threshold: 26)
+        - ATR: 0.63
+        - Volume: 1733224 (Threshold: 190000)
+        - Support: 378.35 | Resistance: 416.34 ✅ FIXED
+        - Trend: Neutral (Moderate)
+        - Win Probability: 65%
+    
+2025-03-17 22:08:42,007 - INFO - 📩 Telegram Alert Sent Successfully
+2025-03-17 22:08:42,009 - INFO - Waiting for the next cycle...
+2025-03-17 22:11:42,010 - INFO - 📊 Fetching data for AAPL...
+2025-03-17 22:11:42,013 - INFO - Fetching TradingView data for AAPL...
+2025-03-17 22:11:42,626 - INFO - 📊 Volume for AAPL: 3436029
+2025-03-17 22:11:42,880 - INFO - 📊 Indicators for AAPL:
+        - Close Price: 214.15
+        - RSI: 49.5771058 (Overbought: 70 / Oversold: 30)
+        - MACD: 0.36859851 | MACD Signal: 0.48183421
+        - ADX: 40.96149437 (Threshold: 25)
+        - ATR: 0.38
+        - Volume: 3436029 (Threshold: 100000)
+        - Support: 210.68 | Resistance: 248.62 ✅ FIXED
+        - Trend: Trending 🔥 (Strong)
+        - Win Probability: 85%
+    
+2025-03-17 22:11:42,882 - INFO - 📊 Fetching data for TSLA...
+2025-03-17 22:11:42,882 - INFO - Fetching TradingView data for TSLA...
+2025-03-17 22:11:43,391 - INFO - 📊 Volume for TSLA: 2551244
+2025-03-17 22:11:43,584 - INFO - 📊 Indicators for TSLA:
+        - Close Price: 237.8
+        - RSI: 46.80081482 (Overbought: 75 / Oversold: 25)
+        - MACD: 0.20926885 | MACD Signal: 0.38603437
+        - ADX: 21.90479601 (Threshold: 30)
+        - ATR: 1.02
+        - Volume: 2551244 (Threshold: 200000)
+        - Support: 225.52 | Resistance: 361.96 ✅ FIXED
+        - Trend: Neutral (Moderate)
+        - Win Probability: 50%
+    
+2025-03-17 22:11:43,588 - INFO - 📊 Fetching data for NVDA...
+2025-03-17 22:11:43,589 - INFO - Fetching TradingView data for NVDA...
+2025-03-17 22:11:44,111 - INFO - 📊 Volume for NVDA: 8235243
+2025-03-17 22:11:44,305 - INFO - 📊 Indicators for NVDA:
+        - Close Price: 119.48
+        - RSI: 38.53240707 (Overbought: 72 / Oversold: 28)
+        - MACD: 0.04096737 | MACD Signal: 0.18758759
+        - ADX: 19.95122576 (Threshold: 28)
+        - ATR: 0.37
+        - Volume: 8235243 (Threshold: 150000)
+        - Support: 106.83 | Resistance: 140.71 ✅ FIXED
+        - Trend: Ranging ⚖️ (Weak)
+        - Win Probability: 50%
+    
+2025-03-17 22:11:44,307 - INFO - 📊 Fetching data for AMZN...
+2025-03-17 22:11:44,307 - INFO - Fetching TradingView data for AMZN...
+2025-03-17 22:11:44,707 - INFO - 📊 Volume for AMZN: 3095128
+2025-03-17 22:11:44,940 - INFO - 📊 Indicators for AMZN:
+        - Close Price: 195.85
+        - RSI: 27.40751692 (Overbought: 68 / Oversold: 32)
+        - MACD: -0.08230934 | MACD Signal: 0.1716811
+        - ADX: 23.29075983 (Threshold: 22)
+        - ATR: 0.52
+        - Volume: 3095128 (Threshold: 180000)
+        - Support: 192.54 | Resistance: 225.34 ✅ FIXED
+        - Trend: Neutral (Moderate)
+        - Win Probability: 55%
+    
+2025-03-17 22:11:45,421 - INFO - 📩 Telegram Alert Sent Successfully
+2025-03-17 22:11:45,423 - INFO - 📊 Fetching data for META...
+2025-03-17 22:11:45,425 - INFO - Fetching TradingView data for META...
+2025-03-17 22:11:45,922 - INFO - 📊 Volume for META: 749562
+2025-03-17 22:11:46,122 - INFO - 📊 Indicators for META:
+        - Close Price: 604.71
+        - RSI: 50.39792712 (Overbought: 73 / Oversold: 27)
+        - MACD: 0.64316968 | MACD Signal: 0.87263337
+        - ADX: 27.24862025 (Threshold: 29)
+        - ATR: 1.28
+        - Volume: 749562 (Threshold: 160000)
+        - Support: 591.73 | Resistance: 707.14 ✅ FIXED
+        - Trend: Trending 🔥 (Strong)
+        - Win Probability: 75%
+    
+2025-03-17 22:11:46,123 - INFO - 📊 Fetching data for GOOGL...
+2025-03-17 22:11:46,123 - INFO - Fetching TradingView data for GOOGL...
+2025-03-17 22:11:46,536 - INFO - 📊 Volume for GOOGL: 2584686
+2025-03-17 22:11:46,726 - INFO - 📊 Indicators for GOOGL:
+        - Close Price: 164.22
+        - RSI: 32.63853839 (Overbought: 71 / Oversold: 29)
+        - MACD: -0.07355063 | MACD Signal: 0.02026669
+        - ADX: 19.9864684 (Threshold: 27)
+        - ATR: 0.33
+        - Volume: 2584686 (Threshold: 140000)
+        - Support: 162.78 | Resistance: 184.99 ✅ FIXED
+        - Trend: Ranging ⚖️ (Weak)
+        - Win Probability: 50%
+    
+2025-03-17 22:11:46,726 - INFO - 📊 Fetching data for AMD...
+2025-03-17 22:11:46,728 - INFO - Fetching TradingView data for AMD...
+2025-03-17 22:11:47,158 - INFO - 📊 Volume for AMD: 1792105
+2025-03-17 22:11:47,312 - INFO - 📊 Indicators for AMD:
+        - Close Price: 104.59
+        - RSI: 30.97440114 (Overbought: 74 / Oversold: 26)
+        - MACD: 0.00816528 | MACD Signal: 0.16390681
+        - ADX: 22.48754063 (Threshold: 30)
+        - ATR: 0.27
+        - Volume: 1792105 (Threshold: 120000)
+        - Support: 96.01 | Resistance: 115.16 ✅ FIXED
+        - Trend: Neutral (Moderate)
+        - Win Probability: 45%
+    
+2025-03-17 22:11:47,312 - INFO - 📊 Fetching data for BABA...
+2025-03-17 22:11:47,319 - INFO - Fetching TradingView data for BABA...
+2025-03-17 22:11:47,713 - INFO - 📊 Volume for BABA: 1162699
+2025-03-17 22:11:47,909 - INFO - 📊 Indicators for BABA:
+        - Close Price: 147.62
+        - RSI: 46.23129425 (Overbought: 69 / Oversold: 31)
+        - MACD: 0.05547062 | MACD Signal: 0.10375086
+        - ADX: 25.22333515 (Threshold: 25)
+        - ATR: 0.34
+        - Volume: 1162699 (Threshold: 130000)
+        - Support: 126.01 | Resistance: 145.43 ✅ FIXED
+        - Trend: Trending 🔥 (Strong)
+        - Win Probability: 75%
+    
+2025-03-17 22:11:47,909 - INFO - 📊 Fetching data for COIN...
+2025-03-17 22:11:47,909 - INFO - Fetching TradingView data for COIN...
+2025-03-17 22:11:48,322 - INFO - 📊 Volume for COIN: 304533
+2025-03-17 22:11:48,600 - INFO - 📊 Indicators for COIN:
+        - Close Price: 188.95
+        - RSI: 35.72928289 (Overbought: 72 / Oversold: 28)
+        - MACD: 0.13494107 | MACD Signal: 0.68497817
+        - ADX: 38.50396887 (Threshold: 28)
+        - ATR: 0.92
+        - Volume: 304533 (Threshold: 100000)
+        - Support: 179.58 | Resistance: 264.7 ✅ FIXED
+        - Trend: Neutral (Moderate)
+        - Win Probability: 55%
+    
+2025-03-17 22:11:48,605 - INFO - 📊 Fetching data for MSFT...
+2025-03-17 22:11:48,605 - INFO - Fetching TradingView data for MSFT...
+2025-03-17 22:11:48,955 - INFO - 📊 Volume for MSFT: 1733224
+2025-03-17 22:11:49,112 - INFO - 📊 Indicators for MSFT:
+        - Close Price: 388.78
+        - RSI: 29.31189448 (Overbought: 70 / Oversold: 30)
+        - MACD: 0.12172316 | MACD Signal: 0.4900626
+        - ADX: 28.93714664 (Threshold: 26)
+        - ATR: 0.63
+        - Volume: 1733224 (Threshold: 190000)
+        - Support: 378.35 | Resistance: 416.34 ✅ FIXED
+        - Trend: Neutral (Moderate)
+        - Win Probability: 65%
+    
+2025-03-17 22:11:49,532 - INFO - 📩 Telegram Alert Sent Successfully
+2025-03-17 22:11:49,540 - INFO - Waiting for the next cycle...
+2025-03-17 22:14:49,541 - INFO - 📊 Fetching data for AAPL...
+2025-03-17 22:14:49,549 - INFO - Fetching TradingView data for AAPL...
+2025-03-17 22:14:50,085 - INFO - 📊 Volume for AAPL: 3436029
+2025-03-17 22:14:50,311 - INFO - 📊 Indicators for AAPL:
+        - Close Price: 214.15
+        - RSI: 49.5771058 (Overbought: 70 / Oversold: 30)
+        - MACD: 0.36859851 | MACD Signal: 0.48183421
+        - ADX: 40.96149437 (Threshold: 25)
+        - ATR: 0.38
+        - Volume: 3436029 (Threshold: 100000)
+        - Support: 210.68 | Resistance: 248.62 ✅ FIXED
+        - Trend: Trending 🔥 (Strong)
+        - Win Probability: 85%
+    
+2025-03-17 22:14:50,322 - INFO - 📊 Fetching data for TSLA...
+2025-03-17 22:14:50,322 - INFO - Fetching TradingView data for TSLA...
+2025-03-17 22:14:50,760 - INFO - 📊 Volume for TSLA: 2551244
+2025-03-17 22:14:50,959 - INFO - 📊 Indicators for TSLA:
+        - Close Price: 237.8
+        - RSI: 46.80081482 (Overbought: 75 / Oversold: 25)
+        - MACD: 0.20926885 | MACD Signal: 0.38603437
+        - ADX: 21.90479601 (Threshold: 30)
+        - ATR: 1.02
+        - Volume: 2551244 (Threshold: 200000)
+        - Support: 225.52 | Resistance: 361.96 ✅ FIXED
+        - Trend: Neutral (Moderate)
+        - Win Probability: 50%
+    
+2025-03-17 22:14:50,960 - INFO - 📊 Fetching data for NVDA...
+2025-03-17 22:14:50,960 - INFO - Fetching TradingView data for NVDA...
+2025-03-17 22:14:51,380 - INFO - 📊 Volume for NVDA: 8235243
+2025-03-17 22:14:51,624 - INFO - 📊 Indicators for NVDA:
+        - Close Price: 119.48
+        - RSI: 38.53240707 (Overbought: 72 / Oversold: 28)
+        - MACD: 0.04096737 | MACD Signal: 0.18758759
+        - ADX: 19.95122576 (Threshold: 28)
+        - ATR: 0.37
+        - Volume: 8235243 (Threshold: 150000)
+        - Support: 106.83 | Resistance: 140.71 ✅ FIXED
+        - Trend: Ranging ⚖️ (Weak)
+        - Win Probability: 50%
+    
+2025-03-17 22:14:51,627 - INFO - 📊 Fetching data for AMZN...
+2025-03-17 22:14:51,627 - INFO - Fetching TradingView data for AMZN...
+2025-03-17 22:14:51,987 - INFO - 📊 Volume for AMZN: 3095128
+2025-03-17 22:14:52,157 - INFO - 📊 Indicators for AMZN:
+        - Close Price: 195.85
+        - RSI: 27.40751692 (Overbought: 68 / Oversold: 32)
+        - MACD: -0.08230934 | MACD Signal: 0.1716811
+        - ADX: 23.29075983 (Threshold: 22)
+        - ATR: 0.52
+        - Volume: 3095128 (Threshold: 180000)
+        - Support: 192.54 | Resistance: 225.34 ✅ FIXED
+        - Trend: Neutral (Moderate)
+        - Win Probability: 55%
+    
+2025-03-17 22:14:52,661 - INFO - 📩 Telegram Alert Sent Successfully
+2025-03-17 22:14:52,663 - INFO - 📊 Fetching data for META...
+2025-03-17 22:14:52,664 - INFO - Fetching TradingView data for META...
+2025-03-17 22:14:53,041 - INFO - 📊 Volume for META: 749562
+2025-03-17 22:14:53,473 - INFO - 📊 Indicators for META:
+        - Close Price: 604.71
+        - RSI: 50.39792712 (Overbought: 73 / Oversold: 27)
+        - MACD: 0.64316968 | MACD Signal: 0.87263337
+        - ADX: 27.24862025 (Threshold: 29)
+        - ATR: 1.28
+        - Volume: 749562 (Threshold: 160000)
+        - Support: 591.73 | Resistance: 707.14 ✅ FIXED
+        - Trend: Trending 🔥 (Strong)
+        - Win Probability: 75%
+    
+2025-03-17 22:14:53,473 - INFO - 📊 Fetching data for GOOGL...
+2025-03-17 22:14:53,473 - INFO - Fetching TradingView data for GOOGL...
+2025-03-17 22:14:53,891 - INFO - 📊 Volume for GOOGL: 2584686
+2025-03-17 22:14:54,079 - INFO - 📊 Indicators for GOOGL:
+        - Close Price: 164.22
+        - RSI: 32.63853839 (Overbought: 71 / Oversold: 29)
+        - MACD: -0.07355063 | MACD Signal: 0.02026669
+        - ADX: 19.9864684 (Threshold: 27)
+        - ATR: 0.33
+        - Volume: 2584686 (Threshold: 140000)
+        - Support: 162.78 | Resistance: 184.99 ✅ FIXED
+        - Trend: Ranging ⚖️ (Weak)
+        - Win Probability: 50%
+    
+2025-03-17 22:14:54,079 - INFO - 📊 Fetching data for AMD...
+2025-03-17 22:14:54,079 - INFO - Fetching TradingView data for AMD...
+2025-03-17 22:14:54,490 - INFO - 📊 Volume for AMD: 1792105
+2025-03-17 22:14:54,660 - INFO - 📊 Indicators for AMD:
+        - Close Price: 104.59
+        - RSI: 30.97440114 (Overbought: 74 / Oversold: 26)
+        - MACD: 0.00816528 | MACD Signal: 0.16390681
+        - ADX: 22.48754063 (Threshold: 30)
+        - ATR: 0.27
+        - Volume: 1792105 (Threshold: 120000)
+        - Support: 96.01 | Resistance: 115.16 ✅ FIXED
+        - Trend: Neutral (Moderate)
+        - Win Probability: 45%
+    
+2025-03-17 22:14:54,660 - INFO - 📊 Fetching data for BABA...
+2025-03-17 22:14:54,660 - INFO - Fetching TradingView data for BABA...
+2025-03-17 22:14:55,044 - INFO - 📊 Volume for BABA: 1162699
+2025-03-17 22:14:55,259 - INFO - 📊 Indicators for BABA:
+        - Close Price: 147.62
+        - RSI: 46.23129425 (Overbought: 69 / Oversold: 31)
+        - MACD: 0.05547062 | MACD Signal: 0.10375086
+        - ADX: 25.22333515 (Threshold: 25)
+        - ATR: 0.34
+        - Volume: 1162699 (Threshold: 130000)
+        - Support: 126.01 | Resistance: 145.43 ✅ FIXED
+        - Trend: Trending 🔥 (Strong)
+        - Win Probability: 75%
+    
+2025-03-17 22:14:55,259 - INFO - 📊 Fetching data for COIN...
+2025-03-17 22:14:55,259 - INFO - Fetching TradingView data for COIN...
+2025-03-17 22:14:55,728 - INFO - 📊 Volume for COIN: 304533
+2025-03-17 22:14:56,017 - INFO - 📊 Indicators for COIN:
+        - Close Price: 188.95
+        - RSI: 35.72928289 (Overbought: 72 / Oversold: 28)
+        - MACD: 0.13494107 | MACD Signal: 0.68497817
+        - ADX: 38.50396887 (Threshold: 28)
+        - ATR: 0.92
+        - Volume: 304533 (Threshold: 100000)
+        - Support: 179.58 | Resistance: 264.7 ✅ FIXED
+        - Trend: Neutral (Moderate)
+        - Win Probability: 55%
+    
+2025-03-17 22:14:56,020 - INFO - 📊 Fetching data for MSFT...
+2025-03-17 22:14:56,021 - INFO - Fetching TradingView data for MSFT...
+2025-03-17 22:14:56,431 - INFO - 📊 Volume for MSFT: 1733224
+2025-03-17 22:14:56,625 - INFO - 📊 Indicators for MSFT:
+        - Close Price: 388.78
+        - RSI: 29.31189448 (Overbought: 70 / Oversold: 30)
+        - MACD: 0.12172316 | MACD Signal: 0.4900626
+        - ADX: 28.93714664 (Threshold: 26)
+        - ATR: 0.63
+        - Volume: 1733224 (Threshold: 190000)
+        - Support: 378.35 | Resistance: 416.34 ✅ FIXED
+        - Trend: Neutral (Moderate)
+        - Win Probability: 65%
+    
+2025-03-17 22:14:57,040 - INFO - 📩 Telegram Alert Sent Successfully
+2025-03-17 22:14:57,042 - INFO - Waiting for the next cycle...
+2025-03-17 22:17:57,043 - INFO - 📊 Fetching data for AAPL...
+2025-03-17 22:17:57,047 - INFO - Fetching TradingView data for AAPL...
+2025-03-17 22:17:57,585 - INFO - 📊 Volume for AAPL: 3436029
+2025-03-17 22:17:57,774 - INFO - 📊 Indicators for AAPL:
+        - Close Price: 214.15
+        - RSI: 49.5771058 (Overbought: 70 / Oversold: 30)
+        - MACD: 0.36859851 | MACD Signal: 0.48183421
+        - ADX: 40.96149437 (Threshold: 25)
+        - ATR: 0.38
+        - Volume: 3436029 (Threshold: 100000)
+        - Support: 210.68 | Resistance: 248.62 ✅ FIXED
+        - Trend: Trending 🔥 (Strong)
+        - Win Probability: 85%
+    
+2025-03-17 22:17:57,774 - INFO - 📊 Fetching data for TSLA...
+2025-03-17 22:17:57,774 - INFO - Fetching TradingView data for TSLA...
+2025-03-17 22:17:58,236 - INFO - 📊 Volume for TSLA: 2551244
+2025-03-17 22:17:58,419 - INFO - 📊 Indicators for TSLA:
+        - Close Price: 237.8
+        - RSI: 46.80081482 (Overbought: 75 / Oversold: 25)
+        - MACD: 0.20926885 | MACD Signal: 0.38603437
+        - ADX: 21.90479601 (Threshold: 30)
+        - ATR: 1.02
+        - Volume: 2551244 (Threshold: 200000)
+        - Support: 225.52 | Resistance: 361.96 ✅ FIXED
+        - Trend: Neutral (Moderate)
+        - Win Probability: 50%
+    
+2025-03-17 22:17:58,419 - INFO - 📊 Fetching data for NVDA...
+2025-03-17 22:17:58,419 - INFO - Fetching TradingView data for NVDA...
+2025-03-17 22:17:58,819 - INFO - 📊 Volume for NVDA: 8235243
+2025-03-17 22:17:59,018 - INFO - 📊 Indicators for NVDA:
+        - Close Price: 119.48
+        - RSI: 38.53240707 (Overbought: 72 / Oversold: 28)
+        - MACD: 0.04096737 | MACD Signal: 0.18758759
+        - ADX: 19.95122576 (Threshold: 28)
+        - ATR: 0.37
+        - Volume: 8235243 (Threshold: 150000)
+        - Support: 106.83 | Resistance: 140.71 ✅ FIXED
+        - Trend: Ranging ⚖️ (Weak)
+        - Win Probability: 50%
+    
+2025-03-17 22:17:59,019 - INFO - 📊 Fetching data for AMZN...
+2025-03-17 22:17:59,019 - INFO - Fetching TradingView data for AMZN...
+2025-03-17 22:17:59,361 - INFO - 📊 Volume for AMZN: 3095128
+2025-03-17 22:17:59,590 - INFO - 📊 Indicators for AMZN:
+        - Close Price: 195.85
+        - RSI: 27.40751692 (Overbought: 68 / Oversold: 32)
+        - MACD: -0.08230934 | MACD Signal: 0.1716811
+        - ADX: 23.29075983 (Threshold: 22)
+        - ATR: 0.52
+        - Volume: 3095128 (Threshold: 180000)
+        - Support: 192.54 | Resistance: 225.34 ✅ FIXED
+        - Trend: Neutral (Moderate)
+        - Win Probability: 55%
+    
+2025-03-17 22:18:00,098 - INFO - 📩 Telegram Alert Sent Successfully
+2025-03-17 22:18:00,100 - INFO - 📊 Fetching data for META...
+2025-03-17 22:18:00,102 - INFO - Fetching TradingView data for META...
+2025-03-17 22:18:00,403 - INFO - 📊 Volume for META: 749562
+2025-03-17 22:18:00,657 - INFO - 📊 Indicators for META:
+        - Close Price: 604.71
+        - RSI: 50.39792712 (Overbought: 73 / Oversold: 27)
+        - MACD: 0.64316968 | MACD Signal: 0.87263337
+        - ADX: 27.24862025 (Threshold: 29)
+        - ATR: 1.28
+        - Volume: 749562 (Threshold: 160000)
+        - Support: 591.73 | Resistance: 707.14 ✅ FIXED
+        - Trend: Trending 🔥 (Strong)
+        - Win Probability: 75%
+    
+2025-03-17 22:18:00,666 - INFO - 📊 Fetching data for GOOGL...
+2025-03-17 22:18:00,668 - INFO - Fetching TradingView data for GOOGL...
+2025-03-17 22:18:01,057 - INFO - 📊 Volume for GOOGL: 2584686
+2025-03-17 22:18:01,227 - INFO - 📊 Indicators for GOOGL:
+        - Close Price: 164.22
+        - RSI: 32.63853839 (Overbought: 71 / Oversold: 29)
+        - MACD: -0.07355063 | MACD Signal: 0.02026669
+        - ADX: 19.9864684 (Threshold: 27)
+        - ATR: 0.33
+        - Volume: 2584686 (Threshold: 140000)
+        - Support: 162.78 | Resistance: 184.99 ✅ FIXED
+        - Trend: Ranging ⚖️ (Weak)
+        - Win Probability: 50%
+    
+2025-03-17 22:18:01,229 - INFO - 📊 Fetching data for AMD...
+2025-03-17 22:18:01,231 - INFO - Fetching TradingView data for AMD...
+2025-03-17 22:18:01,640 - INFO - 📊 Volume for AMD: 1792105
+2025-03-17 22:18:01,847 - INFO - 📊 Indicators for AMD:
+        - Close Price: 104.59
+        - RSI: 30.97440114 (Overbought: 74 / Oversold: 26)
+        - MACD: 0.00816528 | MACD Signal: 0.16390681
+        - ADX: 22.48754063 (Threshold: 30)
+        - ATR: 0.27
+        - Volume: 1792105 (Threshold: 120000)
+        - Support: 96.01 | Resistance: 115.16 ✅ FIXED
+        - Trend: Neutral (Moderate)
+        - Win Probability: 45%
+    
+2025-03-17 22:18:01,848 - INFO - 📊 Fetching data for BABA...
+2025-03-17 22:18:01,849 - INFO - Fetching TradingView data for BABA...
+2025-03-17 22:18:02,223 - INFO - 📊 Volume for BABA: 1162699
+2025-03-17 22:18:02,370 - INFO - 📊 Indicators for BABA:
+        - Close Price: 147.62
+        - RSI: 46.23129425 (Overbought: 69 / Oversold: 31)
+        - MACD: 0.05547062 | MACD Signal: 0.10375086
+        - ADX: 25.22333515 (Threshold: 25)
+        - ATR: 0.34
+        - Volume: 1162699 (Threshold: 130000)
+        - Support: 126.01 | Resistance: 145.43 ✅ FIXED
+        - Trend: Trending 🔥 (Strong)
+        - Win Probability: 75%
+    
+2025-03-17 22:18:02,370 - INFO - 📊 Fetching data for COIN...
+2025-03-17 22:18:02,370 - INFO - Fetching TradingView data for COIN...
+2025-03-17 22:18:02,723 - INFO - 📊 Volume for COIN: 304533
+2025-03-17 22:18:02,927 - INFO - 📊 Indicators for COIN:
+        - Close Price: 188.95
+        - RSI: 35.72928289 (Overbought: 72 / Oversold: 28)
+        - MACD: 0.13494107 | MACD Signal: 0.68497817
+        - ADX: 38.50396887 (Threshold: 28)
+        - ATR: 0.92
+        - Volume: 304533 (Threshold: 100000)
+        - Support: 179.58 | Resistance: 264.7 ✅ FIXED
+        - Trend: Neutral (Moderate)
+        - Win Probability: 55%
+    
+2025-03-17 22:18:02,927 - INFO - 📊 Fetching data for MSFT...
+2025-03-17 22:18:02,927 - INFO - Fetching TradingView data for MSFT...
+2025-03-17 22:18:03,461 - INFO - 📊 Volume for MSFT: 1733224
+2025-03-17 22:18:03,742 - INFO - 📊 Indicators for MSFT:
+        - Close Price: 388.78
+        - RSI: 29.31189448 (Overbought: 70 / Oversold: 30)
+        - MACD: 0.12172316 | MACD Signal: 0.4900626
+        - ADX: 28.93714664 (Threshold: 26)
+        - ATR: 0.63
+        - Volume: 1733224 (Threshold: 190000)
+        - Support: 378.35 | Resistance: 416.34 ✅ FIXED
+        - Trend: Neutral (Moderate)
+        - Win Probability: 65%
+    
+2025-03-17 22:18:04,202 - INFO - 📩 Telegram Alert Sent Successfully
+2025-03-17 22:18:04,203 - INFO - Waiting for the next cycle...
+2025-03-17 22:21:04,204 - INFO - 📊 Fetching data for AAPL...
+2025-03-17 22:21:04,231 - INFO - Fetching TradingView data for AAPL...
+2025-03-17 22:21:04,736 - INFO - 📊 Volume for AAPL: 3436029
+2025-03-17 22:21:04,869 - INFO - 📊 Indicators for AAPL:
+        - Close Price: 214.15
+        - RSI: 49.5771058 (Overbought: 70 / Oversold: 30)
+        - MACD: 0.36859851 | MACD Signal: 0.48183421
+        - ADX: 40.96149437 (Threshold: 25)
+        - ATR: 0.38
+        - Volume: 3436029 (Threshold: 100000)
+        - Support: 210.68 | Resistance: 248.62 ✅ FIXED
+        - Trend: Trending 🔥 (Strong)
+        - Win Probability: 85%
+    
+2025-03-17 22:21:04,871 - INFO - 📊 Fetching data for TSLA...
+2025-03-17 22:21:04,871 - INFO - Fetching TradingView data for TSLA...
+2025-03-17 22:21:05,216 - INFO - 📊 Volume for TSLA: 2551244
+2025-03-17 22:21:05,360 - INFO - 📊 Indicators for TSLA:
+        - Close Price: 237.8
+        - RSI: 46.80081482 (Overbought: 75 / Oversold: 25)
+        - MACD: 0.20926885 | MACD Signal: 0.38603437
+        - ADX: 21.90479601 (Threshold: 30)
+        - ATR: 1.02
+        - Volume: 2551244 (Threshold: 200000)
+        - Support: 225.52 | Resistance: 361.96 ✅ FIXED
+        - Trend: Neutral (Moderate)
+        - Win Probability: 50%
+    
+2025-03-17 22:21:05,362 - INFO - 📊 Fetching data for NVDA...
+2025-03-17 22:21:05,362 - INFO - Fetching TradingView data for NVDA...
+2025-03-17 22:21:05,688 - INFO - 📊 Volume for NVDA: 8235243
+2025-03-17 22:21:05,830 - INFO - 📊 Indicators for NVDA:
+        - Close Price: 119.48
+        - RSI: 38.53240707 (Overbought: 72 / Oversold: 28)
+        - MACD: 0.04096737 | MACD Signal: 0.18758759
+        - ADX: 19.95122576 (Threshold: 28)
+        - ATR: 0.37
+        - Volume: 8235243 (Threshold: 150000)
+        - Support: 106.83 | Resistance: 140.71 ✅ FIXED
+        - Trend: Ranging ⚖️ (Weak)
+        - Win Probability: 50%
+    
+2025-03-17 22:21:05,830 - INFO - 📊 Fetching data for AMZN...
+2025-03-17 22:21:05,836 - INFO - Fetching TradingView data for AMZN...
+2025-03-17 22:21:06,111 - INFO - 📊 Volume for AMZN: 3095128
+2025-03-17 22:21:06,259 - INFO - 📊 Indicators for AMZN:
+        - Close Price: 195.85
+        - RSI: 27.40751692 (Overbought: 68 / Oversold: 32)
+        - MACD: -0.08230934 | MACD Signal: 0.1716811
+        - ADX: 23.29075983 (Threshold: 22)
+        - ATR: 0.52
+        - Volume: 3095128 (Threshold: 180000)
+        - Support: 192.54 | Resistance: 225.34 ✅ FIXED
+        - Trend: Neutral (Moderate)
+        - Win Probability: 55%
+    
+2025-03-17 22:21:06,695 - INFO - 📩 Telegram Alert Sent Successfully
+2025-03-17 22:21:06,698 - INFO - 📊 Fetching data for META...
+2025-03-17 22:21:06,698 - INFO - Fetching TradingView data for META...
+2025-03-17 22:21:06,991 - INFO - 📊 Volume for META: 749562
+2025-03-17 22:21:07,124 - INFO - 📊 Indicators for META:
+        - Close Price: 604.71
+        - RSI: 50.39792712 (Overbought: 73 / Oversold: 27)
+        - MACD: 0.64316968 | MACD Signal: 0.87263337
+        - ADX: 27.24862025 (Threshold: 29)
+        - ATR: 1.28
+        - Volume: 749562 (Threshold: 160000)
+        - Support: 591.73 | Resistance: 707.14 ✅ FIXED
+        - Trend: Trending 🔥 (Strong)
+        - Win Probability: 75%
+    
+2025-03-17 22:21:07,128 - INFO - 📊 Fetching data for GOOGL...
+2025-03-17 22:21:07,128 - INFO - Fetching TradingView data for GOOGL...
+2025-03-17 22:21:07,417 - INFO - 📊 Volume for GOOGL: 2584686
+2025-03-17 22:21:07,559 - INFO - 📊 Indicators for GOOGL:
+        - Close Price: 164.22
+        - RSI: 32.63853839 (Overbought: 71 / Oversold: 29)
+        - MACD: -0.07355063 | MACD Signal: 0.02026669
+        - ADX: 19.9864684 (Threshold: 27)
+        - ATR: 0.33
+        - Volume: 2584686 (Threshold: 140000)
+        - Support: 162.78 | Resistance: 184.99 ✅ FIXED
+        - Trend: Ranging ⚖️ (Weak)
+        - Win Probability: 50%
+    
+2025-03-17 22:21:07,559 - INFO - 📊 Fetching data for AMD...
+2025-03-17 22:21:07,559 - INFO - Fetching TradingView data for AMD...
+2025-03-17 22:21:07,896 - INFO - 📊 Volume for AMD: 1792105
+2025-03-17 22:21:08,068 - INFO - 📊 Indicators for AMD:
+        - Close Price: 104.59
+        - RSI: 30.97440114 (Overbought: 74 / Oversold: 26)
+        - MACD: 0.00816528 | MACD Signal: 0.16390681
+        - ADX: 22.48754063 (Threshold: 30)
+        - ATR: 0.27
+        - Volume: 1792105 (Threshold: 120000)
+        - Support: 96.01 | Resistance: 115.16 ✅ FIXED
+        - Trend: Neutral (Moderate)
+        - Win Probability: 45%
+    
+2025-03-17 22:21:08,068 - INFO - 📊 Fetching data for BABA...
+2025-03-17 22:21:08,068 - INFO - Fetching TradingView data for BABA...
+2025-03-17 22:21:08,483 - INFO - 📊 Volume for BABA: 1162699
+2025-03-17 22:21:08,669 - INFO - 📊 Indicators for BABA:
+        - Close Price: 147.62
+        - RSI: 46.23129425 (Overbought: 69 / Oversold: 31)
+        - MACD: 0.05547062 | MACD Signal: 0.10375086
+        - ADX: 25.22333515 (Threshold: 25)
+        - ATR: 0.34
+        - Volume: 1162699 (Threshold: 130000)
+        - Support: 126.01 | Resistance: 145.43 ✅ FIXED
+        - Trend: Trending 🔥 (Strong)
+        - Win Probability: 75%
+    
+2025-03-17 22:21:08,669 - INFO - 📊 Fetching data for COIN...
+2025-03-17 22:21:08,669 - INFO - Fetching TradingView data for COIN...
+2025-03-17 22:21:08,996 - INFO - 📊 Volume for COIN: 304533
+2025-03-17 22:21:09,130 - INFO - 📊 Indicators for COIN:
+        - Close Price: 188.95
+        - RSI: 35.72928289 (Overbought: 72 / Oversold: 28)
+        - MACD: 0.13494107 | MACD Signal: 0.68497817
+        - ADX: 38.50396887 (Threshold: 28)
+        - ATR: 0.92
+        - Volume: 304533 (Threshold: 100000)
+        - Support: 179.58 | Resistance: 264.7 ✅ FIXED
+        - Trend: Neutral (Moderate)
+        - Win Probability: 55%
+    
+2025-03-17 22:21:09,130 - INFO - 📊 Fetching data for MSFT...
+2025-03-17 22:21:09,132 - INFO - Fetching TradingView data for MSFT...
+2025-03-17 22:21:09,440 - INFO - 📊 Volume for MSFT: 1733224
+2025-03-17 22:21:09,565 - INFO - 📊 Indicators for MSFT:
+        - Close Price: 388.78
+        - RSI: 29.31189448 (Overbought: 70 / Oversold: 30)
+        - MACD: 0.12172316 | MACD Signal: 0.4900626
+        - ADX: 28.93714664 (Threshold: 26)
+        - ATR: 0.63
+        - Volume: 1733224 (Threshold: 190000)
+        - Support: 378.35 | Resistance: 416.34 ✅ FIXED
+        - Trend: Neutral (Moderate)
+        - Win Probability: 65%
+    
+2025-03-17 22:21:09,991 - INFO - 📩 Telegram Alert Sent Successfully
+2025-03-17 22:21:09,993 - INFO - Waiting for the next cycle...
+2025-03-17 22:24:10,001 - INFO - 📊 Fetching data for AAPL...
+2025-03-17 22:24:10,007 - INFO - Fetching TradingView data for AAPL...
+2025-03-17 22:24:10,570 - INFO - 📊 Volume for AAPL: 3436029
+2025-03-17 22:24:10,794 - INFO - 📊 Indicators for AAPL:
+        - Close Price: 214.15
+        - RSI: 49.5771058 (Overbought: 70 / Oversold: 30)
+        - MACD: 0.36859851 | MACD Signal: 0.48183421
+        - ADX: 40.96149437 (Threshold: 25)
+        - ATR: 0.38
+        - Volume: 3436029 (Threshold: 100000)
+        - Support: 210.68 | Resistance: 248.62 ✅ FIXED
+        - Trend: Trending 🔥 (Strong)
+        - Win Probability: 85%
+    
+2025-03-17 22:24:10,794 - INFO - 📊 Fetching data for TSLA...
+2025-03-17 22:24:10,794 - INFO - Fetching TradingView data for TSLA...
+2025-03-17 22:24:11,236 - INFO - 📊 Volume for TSLA: 2551244
+2025-03-17 22:24:11,419 - INFO - 📊 Indicators for TSLA:
+        - Close Price: 237.8
+        - RSI: 46.80081482 (Overbought: 75 / Oversold: 25)
+        - MACD: 0.20926885 | MACD Signal: 0.38603437
+        - ADX: 21.90479601 (Threshold: 30)
+        - ATR: 1.02
+        - Volume: 2551244 (Threshold: 200000)
+        - Support: 225.52 | Resistance: 361.96 ✅ FIXED
+        - Trend: Neutral (Moderate)
+        - Win Probability: 50%
+    
+2025-03-17 22:24:11,419 - INFO - 📊 Fetching data for NVDA...
+2025-03-17 22:24:11,419 - INFO - Fetching TradingView data for NVDA...
+2025-03-17 22:24:11,962 - INFO - 📊 Volume for NVDA: 8235243
+2025-03-17 22:24:12,132 - INFO - 📊 Indicators for NVDA:
+        - Close Price: 119.48
+        - RSI: 38.53240707 (Overbought: 72 / Oversold: 28)
+        - MACD: 0.04096737 | MACD Signal: 0.18758759
+        - ADX: 19.95122576 (Threshold: 28)
+        - ATR: 0.37
+        - Volume: 8235243 (Threshold: 150000)
+        - Support: 106.83 | Resistance: 140.71 ✅ FIXED
+        - Trend: Ranging ⚖️ (Weak)
+        - Win Probability: 50%
+    
+2025-03-17 22:24:12,132 - INFO - 📊 Fetching data for AMZN...
+2025-03-17 22:24:12,132 - INFO - Fetching TradingView data for AMZN...
+2025-03-17 22:24:12,428 - INFO - 📊 Volume for AMZN: 3095128
+2025-03-17 22:24:12,709 - INFO - 📊 Indicators for AMZN:
+        - Close Price: 195.85
+        - RSI: 27.40751692 (Overbought: 68 / Oversold: 32)
+        - MACD: -0.08230934 | MACD Signal: 0.1716811
+        - ADX: 23.29075983 (Threshold: 22)
+        - ATR: 0.52
+        - Volume: 3095128 (Threshold: 180000)
+        - Support: 192.54 | Resistance: 225.34 ✅ FIXED
+        - Trend: Neutral (Moderate)
+        - Win Probability: 55%
+    
+2025-03-17 22:24:13,184 - INFO - 📩 Telegram Alert Sent Successfully
+2025-03-17 22:24:13,189 - INFO - 📊 Fetching data for META...
+2025-03-17 22:24:13,192 - INFO - Fetching TradingView data for META...
+2025-03-17 22:24:13,648 - INFO - 📊 Volume for META: 749562
+2025-03-17 22:24:13,894 - INFO - 📊 Indicators for META:
+        - Close Price: 604.71
+        - RSI: 50.39792712 (Overbought: 73 / Oversold: 27)
+        - MACD: 0.64316968 | MACD Signal: 0.87263337
+        - ADX: 27.24862025 (Threshold: 29)
+        - ATR: 1.28
+        - Volume: 749562 (Threshold: 160000)
+        - Support: 591.73 | Resistance: 707.14 ✅ FIXED
+        - Trend: Trending 🔥 (Strong)
+        - Win Probability: 75%
+    
+2025-03-17 22:24:13,898 - INFO - 📊 Fetching data for GOOGL...
+2025-03-17 22:24:13,900 - INFO - Fetching TradingView data for GOOGL...
+2025-03-17 22:24:14,314 - INFO - 📊 Volume for GOOGL: 2584686
+2025-03-17 22:24:14,449 - INFO - 📊 Indicators for GOOGL:
+        - Close Price: 164.22
+        - RSI: 32.63853839 (Overbought: 71 / Oversold: 29)
+        - MACD: -0.07355063 | MACD Signal: 0.02026669
+        - ADX: 19.9864684 (Threshold: 27)
+        - ATR: 0.33
+        - Volume: 2584686 (Threshold: 140000)
+        - Support: 162.78 | Resistance: 184.99 ✅ FIXED
+        - Trend: Ranging ⚖️ (Weak)
+        - Win Probability: 50%
+    
+2025-03-17 22:24:14,451 - INFO - 📊 Fetching data for AMD...
+2025-03-17 22:24:14,451 - INFO - Fetching TradingView data for AMD...
+2025-03-17 22:24:14,849 - INFO - 📊 Volume for AMD: 1792105
+2025-03-17 22:24:15,033 - INFO - 📊 Indicators for AMD:
+        - Close Price: 104.59
+        - RSI: 30.97440114 (Overbought: 74 / Oversold: 26)
+        - MACD: 0.00816528 | MACD Signal: 0.16390681
+        - ADX: 22.48754063 (Threshold: 30)
+        - ATR: 0.27
+        - Volume: 1792105 (Threshold: 120000)
+        - Support: 96.01 | Resistance: 115.16 ✅ FIXED
+        - Trend: Neutral (Moderate)
+        - Win Probability: 45%
+    
+2025-03-17 22:24:15,033 - INFO - 📊 Fetching data for BABA...
+2025-03-17 22:24:15,033 - INFO - Fetching TradingView data for BABA...
+2025-03-17 22:24:15,420 - INFO - 📊 Volume for BABA: 1162699
+2025-03-17 22:24:15,651 - INFO - 📊 Indicators for BABA:
+        - Close Price: 147.62
+        - RSI: 46.23129425 (Overbought: 69 / Oversold: 31)
+        - MACD: 0.05547062 | MACD Signal: 0.10375086
+        - ADX: 25.22333515 (Threshold: 25)
+        - ATR: 0.34
+        - Volume: 1162699 (Threshold: 130000)
+        - Support: 126.01 | Resistance: 145.43 ✅ FIXED
+        - Trend: Trending 🔥 (Strong)
+        - Win Probability: 75%
+    
+2025-03-17 22:24:15,655 - INFO - 📊 Fetching data for COIN...
+2025-03-17 22:24:15,655 - INFO - Fetching TradingView data for COIN...
+2025-03-17 22:24:15,996 - INFO - 📊 Volume for COIN: 304533
+2025-03-17 22:24:16,302 - INFO - 📊 Indicators for COIN:
+        - Close Price: 188.95
+        - RSI: 35.72928289 (Overbought: 72 / Oversold: 28)
+        - MACD: 0.13494107 | MACD Signal: 0.68497817
+        - ADX: 38.50396887 (Threshold: 28)
+        - ATR: 0.92
+        - Volume: 304533 (Threshold: 100000)
+        - Support: 179.58 | Resistance: 264.7 ✅ FIXED
+        - Trend: Neutral (Moderate)
+        - Win Probability: 55%
+    
+2025-03-17 22:24:16,302 - INFO - 📊 Fetching data for MSFT...
+2025-03-17 22:24:16,302 - INFO - Fetching TradingView data for MSFT...
+2025-03-17 22:24:16,666 - INFO - 📊 Volume for MSFT: 1733224
+2025-03-17 22:24:16,890 - INFO - 📊 Indicators for MSFT:
+        - Close Price: 388.78
+        - RSI: 29.31189448 (Overbought: 70 / Oversold: 30)
+        - MACD: 0.12172316 | MACD Signal: 0.4900626
+        - ADX: 28.93714664 (Threshold: 26)
+        - ATR: 0.63
+        - Volume: 1733224 (Threshold: 190000)
+        - Support: 378.35 | Resistance: 416.34 ✅ FIXED
+        - Trend: Neutral (Moderate)
+        - Win Probability: 65%
+    
+2025-03-17 22:24:17,335 - INFO - 📩 Telegram Alert Sent Successfully
+2025-03-17 22:24:17,336 - INFO - Waiting for the next cycle...
+2025-03-17 22:27:17,339 - INFO - 📊 Fetching data for AAPL...
+2025-03-17 22:27:17,352 - INFO - Fetching TradingView data for AAPL...
+2025-03-17 22:27:17,890 - INFO - 📊 Volume for AAPL: 3436029
+2025-03-17 22:27:18,115 - INFO - 📊 Indicators for AAPL:
+        - Close Price: 214.15
+        - RSI: 49.5771058 (Overbought: 70 / Oversold: 30)
+        - MACD: 0.36859851 | MACD Signal: 0.48183421
+        - ADX: 40.96149437 (Threshold: 25)
+        - ATR: 0.38
+        - Volume: 3436029 (Threshold: 100000)
+        - Support: 210.68 | Resistance: 248.62 ✅ FIXED
+        - Trend: Trending 🔥 (Strong)
+        - Win Probability: 85%
+    
+2025-03-17 22:27:18,119 - INFO - 📊 Fetching data for TSLA...
+2025-03-17 22:27:18,120 - INFO - Fetching TradingView data for TSLA...
+2025-03-17 22:27:18,662 - INFO - 📊 Volume for TSLA: 2551244
+2025-03-17 22:27:18,829 - INFO - 📊 Indicators for TSLA:
+        - Close Price: 237.8
+        - RSI: 46.80081482 (Overbought: 75 / Oversold: 25)
+        - MACD: 0.20926885 | MACD Signal: 0.38603437
+        - ADX: 21.90479601 (Threshold: 30)
+        - ATR: 1.02
+        - Volume: 2551244 (Threshold: 200000)
+        - Support: 225.52 | Resistance: 361.96 ✅ FIXED
+        - Trend: Neutral (Moderate)
+        - Win Probability: 50%
+    
+2025-03-17 22:27:18,830 - INFO - 📊 Fetching data for NVDA...
+2025-03-17 22:27:18,830 - INFO - Fetching TradingView data for NVDA...
+2025-03-17 22:27:19,269 - INFO - 📊 Volume for NVDA: 8235243
+2025-03-17 22:27:19,455 - INFO - 📊 Indicators for NVDA:
+        - Close Price: 119.48
+        - RSI: 38.53240707 (Overbought: 72 / Oversold: 28)
+        - MACD: 0.04096737 | MACD Signal: 0.18758759
+        - ADX: 19.95122576 (Threshold: 28)
+        - ATR: 0.37
+        - Volume: 8235243 (Threshold: 150000)
+        - Support: 106.83 | Resistance: 140.71 ✅ FIXED
+        - Trend: Ranging ⚖️ (Weak)
+        - Win Probability: 50%
+    
+2025-03-17 22:27:19,457 - INFO - 📊 Fetching data for AMZN...
+2025-03-17 22:27:19,457 - INFO - Fetching TradingView data for AMZN...
+2025-03-17 22:27:19,850 - INFO - 📊 Volume for AMZN: 3095128
+2025-03-17 22:27:20,036 - INFO - 📊 Indicators for AMZN:
+        - Close Price: 195.85
+        - RSI: 27.40751692 (Overbought: 68 / Oversold: 32)
+        - MACD: -0.08230934 | MACD Signal: 0.1716811
+        - ADX: 23.29075983 (Threshold: 22)
+        - ATR: 0.52
+        - Volume: 3095128 (Threshold: 180000)
+        - Support: 192.54 | Resistance: 225.34 ✅ FIXED
+        - Trend: Neutral (Moderate)
+        - Win Probability: 55%
+    
+2025-03-17 22:27:20,550 - INFO - 📩 Telegram Alert Sent Successfully
+2025-03-17 22:27:20,551 - INFO - 📊 Fetching data for META...
+2025-03-17 22:27:20,551 - INFO - Fetching TradingView data for META...
+2025-03-17 22:27:21,038 - INFO - 📊 Volume for META: 749562
+2025-03-17 22:27:21,277 - INFO - 📊 Indicators for META:
+        - Close Price: 604.71
+        - RSI: 50.39792712 (Overbought: 73 / Oversold: 27)
+        - MACD: 0.64316968 | MACD Signal: 0.87263337
+        - ADX: 27.24862025 (Threshold: 29)
+        - ATR: 1.28
+        - Volume: 749562 (Threshold: 160000)
+        - Support: 591.73 | Resistance: 707.14 ✅ FIXED
+        - Trend: Trending 🔥 (Strong)
+        - Win Probability: 75%
+    
+2025-03-17 22:27:21,280 - INFO - 📊 Fetching data for GOOGL...
+2025-03-17 22:27:21,282 - INFO - Fetching TradingView data for GOOGL...
+2025-03-17 22:27:21,726 - INFO - 📊 Volume for GOOGL: 2584686
+2025-03-17 22:27:21,931 - INFO - 📊 Indicators for GOOGL:
+        - Close Price: 164.22
+        - RSI: 32.63853839 (Overbought: 71 / Oversold: 29)
+        - MACD: -0.07355063 | MACD Signal: 0.02026669
+        - ADX: 19.9864684 (Threshold: 27)
+        - ATR: 0.33
+        - Volume: 2584686 (Threshold: 140000)
+        - Support: 162.78 | Resistance: 184.99 ✅ FIXED
+        - Trend: Ranging ⚖️ (Weak)
+        - Win Probability: 50%
+    
+2025-03-17 22:27:21,931 - INFO - 📊 Fetching data for AMD...
+2025-03-17 22:27:21,931 - INFO - Fetching TradingView data for AMD...
+2025-03-17 22:27:22,403 - INFO - 📊 Volume for AMD: 1792105
+2025-03-17 22:27:22,558 - INFO - 📊 Indicators for AMD:
+        - Close Price: 104.59
+        - RSI: 30.97440114 (Overbought: 74 / Oversold: 26)
+        - MACD: 0.00816528 | MACD Signal: 0.16390681
+        - ADX: 22.48754063 (Threshold: 30)
+        - ATR: 0.27
+        - Volume: 1792105 (Threshold: 120000)
+        - Support: 96.01 | Resistance: 115.16 ✅ FIXED
+        - Trend: Neutral (Moderate)
+        - Win Probability: 45%
+    
+2025-03-17 22:27:22,560 - INFO - 📊 Fetching data for BABA...
+2025-03-17 22:27:22,561 - INFO - Fetching TradingView data for BABA...
+2025-03-17 22:27:22,990 - INFO - 📊 Volume for BABA: 1162699
+2025-03-17 22:27:23,264 - INFO - 📊 Indicators for BABA:
+        - Close Price: 147.62
+        - RSI: 46.23129425 (Overbought: 69 / Oversold: 31)
+        - MACD: 0.05547062 | MACD Signal: 0.10375086
+        - ADX: 25.22333515 (Threshold: 25)
+        - ATR: 0.34
+        - Volume: 1162699 (Threshold: 130000)
+        - Support: 126.01 | Resistance: 145.43 ✅ FIXED
+        - Trend: Trending 🔥 (Strong)
+        - Win Probability: 75%
+    
+2025-03-17 22:27:23,264 - INFO - 📊 Fetching data for COIN...
+2025-03-17 22:27:23,264 - INFO - Fetching TradingView data for COIN...
+2025-03-17 22:27:23,796 - INFO - 📊 Volume for COIN: 304533
+2025-03-17 22:27:23,999 - INFO - 📊 Indicators for COIN:
+        - Close Price: 188.95
+        - RSI: 35.72928289 (Overbought: 72 / Oversold: 28)
+        - MACD: 0.13494107 | MACD Signal: 0.68497817
+        - ADX: 38.50396887 (Threshold: 28)
+        - ATR: 0.92
+        - Volume: 304533 (Threshold: 100000)
+        - Support: 179.58 | Resistance: 264.7 ✅ FIXED
+        - Trend: Neutral (Moderate)
+        - Win Probability: 55%
+    
+2025-03-17 22:27:23,999 - INFO - 📊 Fetching data for MSFT...
+2025-03-17 22:27:23,999 - INFO - Fetching TradingView data for MSFT...
+2025-03-17 22:27:24,414 - INFO - 📊 Volume for MSFT: 1733224
+2025-03-17 22:27:24,569 - INFO - 📊 Indicators for MSFT:
+        - Close Price: 388.78
+        - RSI: 29.31189448 (Overbought: 70 / Oversold: 30)
+        - MACD: 0.12172316 | MACD Signal: 0.4900626
+        - ADX: 28.93714664 (Threshold: 26)
+        - ATR: 0.63
+        - Volume: 1733224 (Threshold: 190000)
+        - Support: 378.35 | Resistance: 416.34 ✅ FIXED
+        - Trend: Neutral (Moderate)
+        - Win Probability: 65%
+    
+2025-03-17 22:27:25,049 - INFO - 📩 Telegram Alert Sent Successfully
+2025-03-17 22:27:25,050 - INFO - Waiting for the next cycle...
+2025-03-17 22:30:25,055 - INFO - 📊 Fetching data for AAPL...
+2025-03-17 22:30:25,059 - INFO - Fetching TradingView data for AAPL...
+2025-03-17 22:30:25,581 - INFO - 📊 Volume for AAPL: 3436029
+2025-03-17 22:30:25,788 - INFO - 📊 Indicators for AAPL:
+        - Close Price: 214.15
+        - RSI: 49.5771058 (Overbought: 70 / Oversold: 30)
+        - MACD: 0.36859851 | MACD Signal: 0.48183421
+        - ADX: 40.96149437 (Threshold: 25)
+        - ATR: 0.38
+        - Volume: 3436029 (Threshold: 100000)
+        - Support: 210.68 | Resistance: 248.62 ✅ FIXED
+        - Trend: Trending 🔥 (Strong)
+        - Win Probability: 85%
+    
+2025-03-17 22:30:25,788 - INFO - 📊 Fetching data for TSLA...
+2025-03-17 22:30:25,788 - INFO - Fetching TradingView data for TSLA...
+2025-03-17 22:30:26,154 - INFO - 📊 Volume for TSLA: 2551244
+2025-03-17 22:30:26,364 - INFO - 📊 Indicators for TSLA:
+        - Close Price: 237.8
+        - RSI: 46.80081482 (Overbought: 75 / Oversold: 25)
+        - MACD: 0.20926885 | MACD Signal: 0.38603437
+        - ADX: 21.90479601 (Threshold: 30)
+        - ATR: 1.02
+        - Volume: 2551244 (Threshold: 200000)
+        - Support: 225.52 | Resistance: 361.96 ✅ FIXED
+        - Trend: Neutral (Moderate)
+        - Win Probability: 50%
+    
+2025-03-17 22:30:26,365 - INFO - 📊 Fetching data for NVDA...
+2025-03-17 22:30:26,365 - INFO - Fetching TradingView data for NVDA...
+2025-03-17 22:30:26,950 - INFO - 📊 Volume for NVDA: 8235243
+2025-03-17 22:30:27,148 - INFO - 📊 Indicators for NVDA:
+        - Close Price: 119.48
+        - RSI: 38.53240707 (Overbought: 72 / Oversold: 28)
+        - MACD: 0.04096737 | MACD Signal: 0.18758759
+        - ADX: 19.95122576 (Threshold: 28)
+        - ATR: 0.37
+        - Volume: 8235243 (Threshold: 150000)
+        - Support: 106.83 | Resistance: 140.71 ✅ FIXED
+        - Trend: Ranging ⚖️ (Weak)
+        - Win Probability: 50%
+    
+2025-03-17 22:30:27,148 - INFO - 📊 Fetching data for AMZN...
+2025-03-17 22:30:27,148 - INFO - Fetching TradingView data for AMZN...
+2025-03-17 22:30:27,432 - INFO - 📊 Volume for AMZN: 3095128
+2025-03-17 22:30:27,556 - INFO - 📊 Indicators for AMZN:
+        - Close Price: 195.85
+        - RSI: 27.40751692 (Overbought: 68 / Oversold: 32)
+        - MACD: -0.08230934 | MACD Signal: 0.1716811
+        - ADX: 23.29075983 (Threshold: 22)
+        - ATR: 0.52
+        - Volume: 3095128 (Threshold: 180000)
+        - Support: 192.54 | Resistance: 225.34 ✅ FIXED
+        - Trend: Neutral (Moderate)
+        - Win Probability: 55%
+    
+2025-03-17 22:30:28,004 - INFO - 📩 Telegram Alert Sent Successfully
+2025-03-17 22:30:28,004 - INFO - 📊 Fetching data for META...
+2025-03-17 22:30:28,004 - INFO - Fetching TradingView data for META...
+2025-03-17 22:30:29,034 - INFO - 📊 Volume for META: 749562
+2025-03-17 22:30:29,283 - INFO - 📊 Indicators for META:
+        - Close Price: 604.71
+        - RSI: 50.39792712 (Overbought: 73 / Oversold: 27)
+        - MACD: 0.64316968 | MACD Signal: 0.87263337
+        - ADX: 27.24862025 (Threshold: 29)
+        - ATR: 1.28
+        - Volume: 749562 (Threshold: 160000)
+        - Support: 591.73 | Resistance: 707.14 ✅ FIXED
+        - Trend: Trending 🔥 (Strong)
+        - Win Probability: 75%
+    
+2025-03-17 22:30:29,283 - INFO - 📊 Fetching data for GOOGL...
+2025-03-17 22:30:29,285 - INFO - Fetching TradingView data for GOOGL...
+2025-03-17 22:30:29,715 - INFO - 📊 Volume for GOOGL: 2584686
+2025-03-17 22:30:29,959 - INFO - 📊 Indicators for GOOGL:
+        - Close Price: 164.22
+        - RSI: 32.63853839 (Overbought: 71 / Oversold: 29)
+        - MACD: -0.07355063 | MACD Signal: 0.02026669
+        - ADX: 19.9864684 (Threshold: 27)
+        - ATR: 0.33
+        - Volume: 2584686 (Threshold: 140000)
+        - Support: 162.78 | Resistance: 184.99 ✅ FIXED
+        - Trend: Ranging ⚖️ (Weak)
+        - Win Probability: 50%
+    
+2025-03-17 22:30:29,961 - INFO - 📊 Fetching data for AMD...
+2025-03-17 22:30:29,961 - INFO - Fetching TradingView data for AMD...
+2025-03-17 22:30:30,332 - INFO - 📊 Volume for AMD: 1792105
+2025-03-17 22:30:30,543 - INFO - 📊 Indicators for AMD:
+        - Close Price: 104.59
+        - RSI: 30.97440114 (Overbought: 74 / Oversold: 26)
+        - MACD: 0.00816528 | MACD Signal: 0.16390681
+        - ADX: 22.48754063 (Threshold: 30)
+        - ATR: 0.27
+        - Volume: 1792105 (Threshold: 120000)
+        - Support: 96.01 | Resistance: 115.16 ✅ FIXED
+        - Trend: Neutral (Moderate)
+        - Win Probability: 45%
+    
+2025-03-17 22:30:30,545 - INFO - 📊 Fetching data for BABA...
+2025-03-17 22:30:30,545 - INFO - Fetching TradingView data for BABA...
+2025-03-17 22:30:30,938 - INFO - 📊 Volume for BABA: 1162699
+2025-03-17 22:30:31,057 - INFO - 📊 Indicators for BABA:
+        - Close Price: 147.62
+        - RSI: 46.23129425 (Overbought: 69 / Oversold: 31)
+        - MACD: 0.05547062 | MACD Signal: 0.10375086
+        - ADX: 25.22333515 (Threshold: 25)
+        - ATR: 0.34
+        - Volume: 1162699 (Threshold: 130000)
+        - Support: 126.01 | Resistance: 145.43 ✅ FIXED
+        - Trend: Trending 🔥 (Strong)
+        - Win Probability: 75%
+    
+2025-03-17 22:30:31,057 - INFO - 📊 Fetching data for COIN...
+2025-03-17 22:30:31,059 - INFO - Fetching TradingView data for COIN...
+2025-03-17 22:30:31,426 - INFO - 📊 Volume for COIN: 304533
+2025-03-17 22:30:31,623 - INFO - 📊 Indicators for COIN:
+        - Close Price: 188.95
+        - RSI: 35.72928289 (Overbought: 72 / Oversold: 28)
+        - MACD: 0.13494107 | MACD Signal: 0.68497817
+        - ADX: 38.50396887 (Threshold: 28)
+        - ATR: 0.92
+        - Volume: 304533 (Threshold: 100000)
+        - Support: 179.58 | Resistance: 264.7 ✅ FIXED
+        - Trend: Neutral (Moderate)
+        - Win Probability: 55%
+    
+2025-03-17 22:30:31,623 - INFO - 📊 Fetching data for MSFT...
+2025-03-17 22:30:31,623 - INFO - Fetching TradingView data for MSFT...
+2025-03-17 22:30:32,014 - INFO - 📊 Volume for MSFT: 1733224
+2025-03-17 22:30:32,201 - INFO - 📊 Indicators for MSFT:
+        - Close Price: 388.78
+        - RSI: 29.31189448 (Overbought: 70 / Oversold: 30)
+        - MACD: 0.12172316 | MACD Signal: 0.4900626
+        - ADX: 28.93714664 (Threshold: 26)
+        - ATR: 0.63
+        - Volume: 1733224 (Threshold: 190000)
+        - Support: 378.35 | Resistance: 416.34 ✅ FIXED
+        - Trend: Neutral (Moderate)
+        - Win Probability: 65%
+    
+2025-03-17 22:30:32,637 - INFO - 📩 Telegram Alert Sent Successfully
+2025-03-17 22:30:32,640 - INFO - Waiting for the next cycle...
+2025-03-17 22:33:32,651 - INFO - 📊 Fetching data for AAPL...
+2025-03-17 22:33:32,653 - INFO - Fetching TradingView data for AAPL...
+2025-03-17 22:33:33,267 - INFO - 📊 Volume for AAPL: 3436029
+2025-03-17 22:33:33,549 - INFO - 📊 Indicators for AAPL:
+        - Close Price: 214.15
+        - RSI: 49.5771058 (Overbought: 70 / Oversold: 30)
+        - MACD: 0.36859851 | MACD Signal: 0.48183421
+        - ADX: 40.96149437 (Threshold: 25)
+        - ATR: 0.38
+        - Volume: 3436029 (Threshold: 100000)
+        - Support: 210.68 | Resistance: 248.62 ✅ FIXED
+        - Trend: Trending 🔥 (Strong)
+        - Win Probability: 85%
+    
+2025-03-17 22:33:33,549 - INFO - 📊 Fetching data for TSLA...
+2025-03-17 22:33:33,555 - INFO - Fetching TradingView data for TSLA...
+2025-03-17 22:33:34,030 - INFO - 📊 Volume for TSLA: 2551244
+2025-03-17 22:33:34,224 - INFO - 📊 Indicators for TSLA:
+        - Close Price: 237.8
+        - RSI: 46.80081482 (Overbought: 75 / Oversold: 25)
+        - MACD: 0.20926885 | MACD Signal: 0.38603437
+        - ADX: 21.90479601 (Threshold: 30)
+        - ATR: 1.02
+        - Volume: 2551244 (Threshold: 200000)
+        - Support: 225.52 | Resistance: 361.96 ✅ FIXED
+        - Trend: Neutral (Moderate)
+        - Win Probability: 50%
+    
+2025-03-17 22:33:34,227 - INFO - 📊 Fetching data for NVDA...
+2025-03-17 22:33:34,227 - INFO - Fetching TradingView data for NVDA...
+2025-03-17 22:33:34,712 - INFO - 📊 Volume for NVDA: 8235243
+2025-03-17 22:33:34,875 - INFO - 📊 Indicators for NVDA:
+        - Close Price: 119.48
+        - RSI: 38.53240707 (Overbought: 72 / Oversold: 28)
+        - MACD: 0.04096737 | MACD Signal: 0.18758759
+        - ADX: 19.95122576 (Threshold: 28)
+        - ATR: 0.37
+        - Volume: 8235243 (Threshold: 150000)
+        - Support: 106.83 | Resistance: 140.71 ✅ FIXED
+        - Trend: Ranging ⚖️ (Weak)
+        - Win Probability: 50%
+    
+2025-03-17 22:33:34,876 - INFO - 📊 Fetching data for AMZN...
+2025-03-17 22:33:34,876 - INFO - Fetching TradingView data for AMZN...
+2025-03-17 22:33:35,317 - INFO - 📊 Volume for AMZN: 3095128
+2025-03-17 22:33:35,547 - INFO - 📊 Indicators for AMZN:
+        - Close Price: 195.85
+        - RSI: 27.40751692 (Overbought: 68 / Oversold: 32)
+        - MACD: -0.08230934 | MACD Signal: 0.1716811
+        - ADX: 23.29075983 (Threshold: 22)
+        - ATR: 0.52
+        - Volume: 3095128 (Threshold: 180000)
+        - Support: 192.54 | Resistance: 225.34 ✅ FIXED
+        - Trend: Neutral (Moderate)
+        - Win Probability: 55%
+    
+2025-03-17 22:33:36,077 - INFO - 📩 Telegram Alert Sent Successfully
+2025-03-17 22:33:36,079 - INFO - 📊 Fetching data for META...
+2025-03-17 22:33:36,081 - INFO - Fetching TradingView data for META...
+2025-03-17 22:33:36,577 - INFO - 📊 Volume for META: 749562
+2025-03-17 22:33:36,787 - INFO - 📊 Indicators for META:
+        - Close Price: 604.71
+        - RSI: 50.39792712 (Overbought: 73 / Oversold: 27)
+        - MACD: 0.64316968 | MACD Signal: 0.87263337
+        - ADX: 27.24862025 (Threshold: 29)
+        - ATR: 1.28
+        - Volume: 749562 (Threshold: 160000)
+        - Support: 591.73 | Resistance: 707.14 ✅ FIXED
+        - Trend: Trending 🔥 (Strong)
+        - Win Probability: 75%
+    
+2025-03-17 22:33:36,787 - INFO - 📊 Fetching data for GOOGL...
+2025-03-17 22:33:36,787 - INFO - Fetching TradingView data for GOOGL...
+2025-03-17 22:33:37,231 - INFO - 📊 Volume for GOOGL: 2584686
+2025-03-17 22:33:37,431 - INFO - 📊 Indicators for GOOGL:
+        - Close Price: 164.22
+        - RSI: 32.63853839 (Overbought: 71 / Oversold: 29)
+        - MACD: -0.07355063 | MACD Signal: 0.02026669
+        - ADX: 19.9864684 (Threshold: 27)
+        - ATR: 0.33
+        - Volume: 2584686 (Threshold: 140000)
+        - Support: 162.78 | Resistance: 184.99 ✅ FIXED
+        - Trend: Ranging ⚖️ (Weak)
+        - Win Probability: 50%
+    
+2025-03-17 22:33:37,433 - INFO - 📊 Fetching data for AMD...
+2025-03-17 22:33:37,433 - INFO - Fetching TradingView data for AMD...
+2025-03-17 22:33:37,820 - INFO - 📊 Volume for AMD: 1792105
+2025-03-17 22:33:38,001 - INFO - 📊 Indicators for AMD:
+        - Close Price: 104.59
+        - RSI: 30.97440114 (Overbought: 74 / Oversold: 26)
+        - MACD: 0.00816528 | MACD Signal: 0.16390681
+        - ADX: 22.48754063 (Threshold: 30)
+        - ATR: 0.27
+        - Volume: 1792105 (Threshold: 120000)
+        - Support: 96.01 | Resistance: 115.16 ✅ FIXED
+        - Trend: Neutral (Moderate)
+        - Win Probability: 45%
+    
+2025-03-17 22:33:38,007 - INFO - 📊 Fetching data for BABA...
+2025-03-17 22:33:38,007 - INFO - Fetching TradingView data for BABA...
+2025-03-17 22:33:38,472 - INFO - 📊 Volume for BABA: 1162699
+2025-03-17 22:33:38,699 - INFO - 📊 Indicators for BABA:
+        - Close Price: 147.62
+        - RSI: 46.23129425 (Overbought: 69 / Oversold: 31)
+        - MACD: 0.05547062 | MACD Signal: 0.10375086
+        - ADX: 25.22333515 (Threshold: 25)
+        - ATR: 0.34
+        - Volume: 1162699 (Threshold: 130000)
+        - Support: 126.01 | Resistance: 145.43 ✅ FIXED
+        - Trend: Trending 🔥 (Strong)
+        - Win Probability: 75%
+    
+2025-03-17 22:33:38,701 - INFO - 📊 Fetching data for COIN...
+2025-03-17 22:33:38,703 - INFO - Fetching TradingView data for COIN...
+2025-03-17 22:33:39,130 - INFO - 📊 Volume for COIN: 304533
+2025-03-17 22:33:39,327 - INFO - 📊 Indicators for COIN:
+        - Close Price: 188.95
+        - RSI: 35.72928289 (Overbought: 72 / Oversold: 28)
+        - MACD: 0.13494107 | MACD Signal: 0.68497817
+        - ADX: 38.50396887 (Threshold: 28)
+        - ATR: 0.92
+        - Volume: 304533 (Threshold: 100000)
+        - Support: 179.58 | Resistance: 264.7 ✅ FIXED
+        - Trend: Neutral (Moderate)
+        - Win Probability: 55%
+    
+2025-03-17 22:33:39,329 - INFO - 📊 Fetching data for MSFT...
+2025-03-17 22:33:39,330 - INFO - Fetching TradingView data for MSFT...
+2025-03-17 22:33:39,752 - INFO - 📊 Volume for MSFT: 1733224
+2025-03-17 22:33:39,909 - INFO - 📊 Indicators for MSFT:
+        - Close Price: 388.78
+        - RSI: 29.31189448 (Overbought: 70 / Oversold: 30)
+        - MACD: 0.12172316 | MACD Signal: 0.4900626
+        - ADX: 28.93714664 (Threshold: 26)
+        - ATR: 0.63
+        - Volume: 1733224 (Threshold: 190000)
+        - Support: 378.35 | Resistance: 416.34 ✅ FIXED
+        - Trend: Neutral (Moderate)
+        - Win Probability: 65%
+    
+2025-03-17 22:33:40,378 - INFO - 📩 Telegram Alert Sent Successfully
+2025-03-17 22:33:40,381 - INFO - Waiting for the next cycle...
+2025-03-17 22:36:40,382 - INFO - 📊 Fetching data for AAPL...
+2025-03-17 22:36:40,389 - INFO - Fetching TradingView data for AAPL...
+2025-03-17 22:36:40,935 - INFO - 📊 Volume for AAPL: 3436029
+2025-03-17 22:36:41,351 - INFO - 📊 Indicators for AAPL:
+        - Close Price: 214.15
+        - RSI: 49.5771058 (Overbought: 70 / Oversold: 30)
+        - MACD: 0.36859851 | MACD Signal: 0.48183421
+        - ADX: 40.96149437 (Threshold: 25)
+        - ATR: 0.38
+        - Volume: 3436029 (Threshold: 100000)
+        - Support: 210.68 | Resistance: 248.62 ✅ FIXED
+        - Trend: Trending 🔥 (Strong)
+        - Win Probability: 85%
+    
+2025-03-17 22:36:41,352 - INFO - 📊 Fetching data for TSLA...
+2025-03-17 22:36:41,352 - INFO - Fetching TradingView data for TSLA...
+2025-03-17 22:36:41,838 - INFO - 📊 Volume for TSLA: 2551244
+2025-03-17 22:36:42,048 - INFO - 📊 Indicators for TSLA:
+        - Close Price: 237.8
+        - RSI: 46.80081482 (Overbought: 75 / Oversold: 25)
+        - MACD: 0.20926885 | MACD Signal: 0.38603437
+        - ADX: 21.90479601 (Threshold: 30)
+        - ATR: 1.02
+        - Volume: 2551244 (Threshold: 200000)
+        - Support: 225.52 | Resistance: 361.96 ✅ FIXED
+        - Trend: Neutral (Moderate)
+        - Win Probability: 50%
+    
+2025-03-17 22:36:42,051 - INFO - 📊 Fetching data for NVDA...
+2025-03-17 22:36:42,051 - INFO - Fetching TradingView data for NVDA...
+2025-03-17 22:36:42,486 - INFO - 📊 Volume for NVDA: 8235243
+2025-03-17 22:36:42,651 - INFO - 📊 Indicators for NVDA:
+        - Close Price: 119.48
+        - RSI: 38.53240707 (Overbought: 72 / Oversold: 28)
+        - MACD: 0.04096737 | MACD Signal: 0.18758759
+        - ADX: 19.95122576 (Threshold: 28)
+        - ATR: 0.37
+        - Volume: 8235243 (Threshold: 150000)
+        - Support: 106.83 | Resistance: 140.71 ✅ FIXED
+        - Trend: Ranging ⚖️ (Weak)
+        - Win Probability: 50%
+    
+2025-03-17 22:36:42,652 - INFO - 📊 Fetching data for AMZN...
+2025-03-17 22:36:42,652 - INFO - Fetching TradingView data for AMZN...
+2025-03-17 22:36:42,983 - INFO - 📊 Volume for AMZN: 3095128
+2025-03-17 22:36:43,186 - INFO - 📊 Indicators for AMZN:
+        - Close Price: 195.85
+        - RSI: 27.40751692 (Overbought: 68 / Oversold: 32)
+        - MACD: -0.08230934 | MACD Signal: 0.1716811
+        - ADX: 23.29075983 (Threshold: 22)
+        - ATR: 0.52
+        - Volume: 3095128 (Threshold: 180000)
+        - Support: 192.54 | Resistance: 225.34 ✅ FIXED
+        - Trend: Neutral (Moderate)
+        - Win Probability: 55%
+    
+2025-03-17 22:36:43,783 - INFO - 📩 Telegram Alert Sent Successfully
+2025-03-17 22:36:43,785 - INFO - 📊 Fetching data for META...
+2025-03-17 22:36:43,788 - INFO - Fetching TradingView data for META...
+2025-03-17 22:36:44,251 - INFO - 📊 Volume for META: 749562
+2025-03-17 22:36:44,457 - INFO - 📊 Indicators for META:
+        - Close Price: 604.71
+        - RSI: 50.39792712 (Overbought: 73 / Oversold: 27)
+        - MACD: 0.64316968 | MACD Signal: 0.87263337
+        - ADX: 27.24862025 (Threshold: 29)
+        - ATR: 1.28
+        - Volume: 749562 (Threshold: 160000)
+        - Support: 591.73 | Resistance: 707.14 ✅ FIXED
+        - Trend: Trending 🔥 (Strong)
+        - Win Probability: 75%
+    
+2025-03-17 22:36:44,459 - INFO - 📊 Fetching data for GOOGL...
+2025-03-17 22:36:44,459 - INFO - Fetching TradingView data for GOOGL...
+2025-03-17 22:36:44,891 - INFO - 📊 Volume for GOOGL: 2584686
+2025-03-17 22:36:45,106 - INFO - 📊 Indicators for GOOGL:
+        - Close Price: 164.22
+        - RSI: 32.63853839 (Overbought: 71 / Oversold: 29)
+        - MACD: -0.07355063 | MACD Signal: 0.02026669
+        - ADX: 19.9864684 (Threshold: 27)
+        - ATR: 0.33
+        - Volume: 2584686 (Threshold: 140000)
+        - Support: 162.78 | Resistance: 184.99 ✅ FIXED
+        - Trend: Ranging ⚖️ (Weak)
+        - Win Probability: 50%
+    
+2025-03-17 22:36:45,106 - INFO - 📊 Fetching data for AMD...
+2025-03-17 22:36:45,108 - INFO - Fetching TradingView data for AMD...
+2025-03-17 22:36:45,569 - INFO - 📊 Volume for AMD: 1792105
+2025-03-17 22:36:45,743 - INFO - 📊 Indicators for AMD:
+        - Close Price: 104.59
+        - RSI: 30.97440114 (Overbought: 74 / Oversold: 26)
+        - MACD: 0.00816528 | MACD Signal: 0.16390681
+        - ADX: 22.48754063 (Threshold: 30)
+        - ATR: 0.27
+        - Volume: 1792105 (Threshold: 120000)
+        - Support: 96.01 | Resistance: 115.16 ✅ FIXED
+        - Trend: Neutral (Moderate)
+        - Win Probability: 45%
+    
+2025-03-17 22:36:45,744 - INFO - 📊 Fetching data for BABA...
+2025-03-17 22:36:45,746 - INFO - Fetching TradingView data for BABA...
+2025-03-17 22:36:46,381 - INFO - 📊 Volume for BABA: 1162699
+2025-03-17 22:36:46,581 - INFO - 📊 Indicators for BABA:
+        - Close Price: 147.62
+        - RSI: 46.23129425 (Overbought: 69 / Oversold: 31)
+        - MACD: 0.05547062 | MACD Signal: 0.10375086
+        - ADX: 25.22333515 (Threshold: 25)
+        - ATR: 0.34
+        - Volume: 1162699 (Threshold: 130000)
+        - Support: 126.01 | Resistance: 145.43 ✅ FIXED
+        - Trend: Trending 🔥 (Strong)
+        - Win Probability: 75%
+    
+2025-03-17 22:36:46,582 - INFO - 📊 Fetching data for COIN...
+2025-03-17 22:36:46,582 - INFO - Fetching TradingView data for COIN...
+2025-03-17 22:36:47,133 - INFO - 📊 Volume for COIN: 304533
+2025-03-17 22:36:47,307 - INFO - 📊 Indicators for COIN:
+        - Close Price: 188.95
+        - RSI: 35.72928289 (Overbought: 72 / Oversold: 28)
+        - MACD: 0.13494107 | MACD Signal: 0.68497817
+        - ADX: 38.50396887 (Threshold: 28)
+        - ATR: 0.92
+        - Volume: 304533 (Threshold: 100000)
+        - Support: 179.58 | Resistance: 264.7 ✅ FIXED
+        - Trend: Neutral (Moderate)
+        - Win Probability: 55%
+    
+2025-03-17 22:36:47,307 - INFO - 📊 Fetching data for MSFT...
+2025-03-17 22:36:47,307 - INFO - Fetching TradingView data for MSFT...
+2025-03-17 22:36:47,909 - INFO - 📊 Volume for MSFT: 1733224
+2025-03-17 22:36:48,107 - INFO - 📊 Indicators for MSFT:
+        - Close Price: 388.78
+        - RSI: 29.31189448 (Overbought: 70 / Oversold: 30)
+        - MACD: 0.12172316 | MACD Signal: 0.4900626
+        - ADX: 28.93714664 (Threshold: 26)
+        - ATR: 0.63
+        - Volume: 1733224 (Threshold: 190000)
+        - Support: 378.35 | Resistance: 416.34 ✅ FIXED
+        - Trend: Neutral (Moderate)
+        - Win Probability: 65%
+    
+2025-03-17 22:36:48,553 - INFO - 📩 Telegram Alert Sent Successfully
+2025-03-17 22:36:48,554 - INFO - Waiting for the next cycle...
+2025-03-17 22:39:48,556 - INFO - 📊 Fetching data for AAPL...
+2025-03-17 22:39:48,561 - INFO - Fetching TradingView data for AAPL...
+2025-03-17 22:39:49,157 - INFO - 📊 Volume for AAPL: 3436029
+2025-03-17 22:39:49,418 - INFO - 📊 Indicators for AAPL:
+        - Close Price: 214.15
+        - RSI: 49.5771058 (Overbought: 70 / Oversold: 30)
+        - MACD: 0.36859851 | MACD Signal: 0.48183421
+        - ADX: 40.96149437 (Threshold: 25)
+        - ATR: 0.38
+        - Volume: 3436029 (Threshold: 100000)
+        - Support: 210.68 | Resistance: 248.62 ✅ FIXED
+        - Trend: Trending 🔥 (Strong)
+        - Win Probability: 85%
+    
+2025-03-17 22:39:49,418 - INFO - 📊 Fetching data for TSLA...
+2025-03-17 22:39:49,418 - INFO - Fetching TradingView data for TSLA...
+2025-03-17 22:39:49,767 - INFO - 📊 Volume for TSLA: 2551244
+2025-03-17 22:39:49,967 - INFO - 📊 Indicators for TSLA:
+        - Close Price: 237.8
+        - RSI: 46.80081482 (Overbought: 75 / Oversold: 25)
+        - MACD: 0.20926885 | MACD Signal: 0.38603437
+        - ADX: 21.90479601 (Threshold: 30)
+        - ATR: 1.02
+        - Volume: 2551244 (Threshold: 200000)
+        - Support: 225.52 | Resistance: 361.96 ✅ FIXED
+        - Trend: Neutral (Moderate)
+        - Win Probability: 50%
+    
+2025-03-17 22:39:49,967 - INFO - 📊 Fetching data for NVDA...
+2025-03-17 22:39:49,967 - INFO - Fetching TradingView data for NVDA...
+2025-03-17 22:39:50,371 - INFO - 📊 Volume for NVDA: 8235243
+2025-03-17 22:39:50,561 - INFO - 📊 Indicators for NVDA:
+        - Close Price: 119.48
+        - RSI: 38.53240707 (Overbought: 72 / Oversold: 28)
+        - MACD: 0.04096737 | MACD Signal: 0.18758759
+        - ADX: 19.95122576 (Threshold: 28)
+        - ATR: 0.37
+        - Volume: 8235243 (Threshold: 150000)
+        - Support: 106.83 | Resistance: 140.71 ✅ FIXED
+        - Trend: Ranging ⚖️ (Weak)
+        - Win Probability: 50%
+    
+2025-03-17 22:39:50,561 - INFO - 📊 Fetching data for AMZN...
+2025-03-17 22:39:50,561 - INFO - Fetching TradingView data for AMZN...
+2025-03-17 22:39:50,863 - INFO - 📊 Volume for AMZN: 3095128
+2025-03-17 22:39:51,042 - INFO - 📊 Indicators for AMZN:
+        - Close Price: 195.85
+        - RSI: 27.40751692 (Overbought: 68 / Oversold: 32)
+        - MACD: -0.08230934 | MACD Signal: 0.1716811
+        - ADX: 23.29075983 (Threshold: 22)
+        - ATR: 0.52
+        - Volume: 3095128 (Threshold: 180000)
+        - Support: 192.54 | Resistance: 225.34 ✅ FIXED
+        - Trend: Neutral (Moderate)
+        - Win Probability: 55%
+    
+2025-03-17 22:39:51,516 - INFO - 📩 Telegram Alert Sent Successfully
+2025-03-17 22:39:51,517 - INFO - 📊 Fetching data for META...
+2025-03-17 22:39:51,517 - INFO - Fetching TradingView data for META...
+2025-03-17 22:39:51,901 - INFO - 📊 Volume for META: 749562
+2025-03-17 22:39:52,067 - INFO - 📊 Indicators for META:
+        - Close Price: 604.71
+        - RSI: 50.39792712 (Overbought: 73 / Oversold: 27)
+        - MACD: 0.64316968 | MACD Signal: 0.87263337
+        - ADX: 27.24862025 (Threshold: 29)
+        - ATR: 1.28
+        - Volume: 749562 (Threshold: 160000)
+        - Support: 591.73 | Resistance: 707.14 ✅ FIXED
+        - Trend: Trending 🔥 (Strong)
+        - Win Probability: 75%
+    
+2025-03-17 22:39:52,067 - INFO - 📊 Fetching data for GOOGL...
+2025-03-17 22:39:52,069 - INFO - Fetching TradingView data for GOOGL...
+2025-03-17 22:39:52,508 - INFO - 📊 Volume for GOOGL: 2584686
+2025-03-17 22:39:52,663 - INFO - 📊 Indicators for GOOGL:
+        - Close Price: 164.22
+        - RSI: 32.63853839 (Overbought: 71 / Oversold: 29)
+        - MACD: -0.07355063 | MACD Signal: 0.02026669
+        - ADX: 19.9864684 (Threshold: 27)
+        - ATR: 0.33
+        - Volume: 2584686 (Threshold: 140000)
+        - Support: 162.78 | Resistance: 184.99 ✅ FIXED
+        - Trend: Ranging ⚖️ (Weak)
+        - Win Probability: 50%
+    
+2025-03-17 22:39:52,665 - INFO - 📊 Fetching data for AMD...
+2025-03-17 22:39:52,665 - INFO - Fetching TradingView data for AMD...
+2025-03-17 22:39:53,055 - INFO - 📊 Volume for AMD: 1792105
+2025-03-17 22:39:53,253 - INFO - 📊 Indicators for AMD:
+        - Close Price: 104.59
+        - RSI: 30.97440114 (Overbought: 74 / Oversold: 26)
+        - MACD: 0.00816528 | MACD Signal: 0.16390681
+        - ADX: 22.48754063 (Threshold: 30)
+        - ATR: 0.27
+        - Volume: 1792105 (Threshold: 120000)
+        - Support: 96.01 | Resistance: 115.16 ✅ FIXED
+        - Trend: Neutral (Moderate)
+        - Win Probability: 45%
+    
+2025-03-17 22:39:53,255 - INFO - 📊 Fetching data for BABA...
+2025-03-17 22:39:53,255 - INFO - Fetching TradingView data for BABA...
+2025-03-17 22:39:53,673 - INFO - 📊 Volume for BABA: 1162699
+2025-03-17 22:39:53,864 - INFO - 📊 Indicators for BABA:
+        - Close Price: 147.62
+        - RSI: 46.23129425 (Overbought: 69 / Oversold: 31)
+        - MACD: 0.05547062 | MACD Signal: 0.10375086
+        - ADX: 25.22333515 (Threshold: 25)
+        - ATR: 0.34
+        - Volume: 1162699 (Threshold: 130000)
+        - Support: 126.01 | Resistance: 145.43 ✅ FIXED
+        - Trend: Trending 🔥 (Strong)
+        - Win Probability: 75%
+    
+2025-03-17 22:39:53,865 - INFO - 📊 Fetching data for COIN...
+2025-03-17 22:39:53,865 - INFO - Fetching TradingView data for COIN...
+2025-03-17 22:39:54,221 - INFO - 📊 Volume for COIN: 304533
+2025-03-17 22:39:54,382 - INFO - 📊 Indicators for COIN:
+        - Close Price: 188.95
+        - RSI: 35.72928289 (Overbought: 72 / Oversold: 28)
+        - MACD: 0.13494107 | MACD Signal: 0.68497817
+        - ADX: 38.50396887 (Threshold: 28)
+        - ATR: 0.92
+        - Volume: 304533 (Threshold: 100000)
+        - Support: 179.58 | Resistance: 264.7 ✅ FIXED
+        - Trend: Neutral (Moderate)
+        - Win Probability: 55%
+    
+2025-03-17 22:39:54,383 - INFO - 📊 Fetching data for MSFT...
+2025-03-17 22:39:54,383 - INFO - Fetching TradingView data for MSFT...
+2025-03-17 22:39:54,714 - INFO - 📊 Volume for MSFT: 1733224
+2025-03-17 22:39:54,908 - INFO - 📊 Indicators for MSFT:
+        - Close Price: 388.78
+        - RSI: 29.31189448 (Overbought: 70 / Oversold: 30)
+        - MACD: 0.12172316 | MACD Signal: 0.4900626
+        - ADX: 28.93714664 (Threshold: 26)
+        - ATR: 0.63
+        - Volume: 1733224 (Threshold: 190000)
+        - Support: 378.35 | Resistance: 416.34 ✅ FIXED
+        - Trend: Neutral (Moderate)
+        - Win Probability: 65%
+    
+2025-03-17 22:39:55,413 - INFO - 📩 Telegram Alert Sent Successfully
+2025-03-17 22:39:55,414 - INFO - Waiting for the next cycle...
+2025-03-17 22:42:55,418 - INFO - 📊 Fetching data for AAPL...
+2025-03-17 22:42:55,418 - INFO - Fetching TradingView data for AAPL...
+2025-03-17 22:42:55,998 - INFO - 📊 Volume for AAPL: 3436029
+2025-03-17 22:42:56,243 - INFO - 📊 Indicators for AAPL:
+        - Close Price: 214.15
+        - RSI: 49.5771058 (Overbought: 70 / Oversold: 30)
+        - MACD: 0.36859851 | MACD Signal: 0.48183421
+        - ADX: 40.96149437 (Threshold: 25)
+        - ATR: 0.38
+        - Volume: 3436029 (Threshold: 100000)
+        - Support: 210.68 | Resistance: 248.62 ✅ FIXED
+        - Trend: Trending 🔥 (Strong)
+        - Win Probability: 85%
+    
+2025-03-17 22:42:56,243 - INFO - 📊 Fetching data for TSLA...
+2025-03-17 22:42:56,243 - INFO - Fetching TradingView data for TSLA...
+2025-03-17 22:42:56,602 - INFO - 📊 Volume for TSLA: 2551244
+2025-03-17 22:42:56,751 - INFO - 📊 Indicators for TSLA:
+        - Close Price: 237.8
+        - RSI: 46.80081482 (Overbought: 75 / Oversold: 25)
+        - MACD: 0.20926885 | MACD Signal: 0.38603437
+        - ADX: 21.90479601 (Threshold: 30)
+        - ATR: 1.02
+        - Volume: 2551244 (Threshold: 200000)
+        - Support: 225.52 | Resistance: 361.96 ✅ FIXED
+        - Trend: Neutral (Moderate)
+        - Win Probability: 50%
+    
+2025-03-17 22:42:56,751 - INFO - 📊 Fetching data for NVDA...
+2025-03-17 22:42:56,751 - INFO - Fetching TradingView data for NVDA...
+2025-03-17 22:42:57,226 - INFO - 📊 Volume for NVDA: 8235243
+2025-03-17 22:42:57,380 - INFO - 📊 Indicators for NVDA:
+        - Close Price: 119.48
+        - RSI: 38.53240707 (Overbought: 72 / Oversold: 28)
+        - MACD: 0.04096737 | MACD Signal: 0.18758759
+        - ADX: 19.95122576 (Threshold: 28)
+        - ATR: 0.37
+        - Volume: 8235243 (Threshold: 150000)
+        - Support: 106.83 | Resistance: 140.71 ✅ FIXED
+        - Trend: Ranging ⚖️ (Weak)
+        - Win Probability: 50%
+    
+2025-03-17 22:42:57,380 - INFO - 📊 Fetching data for AMZN...
+2025-03-17 22:42:57,380 - INFO - Fetching TradingView data for AMZN...
+2025-03-17 22:42:57,761 - INFO - 📊 Volume for AMZN: 3095128
+2025-03-17 22:42:57,950 - INFO - 📊 Indicators for AMZN:
+        - Close Price: 195.85
+        - RSI: 27.40751692 (Overbought: 68 / Oversold: 32)
+        - MACD: -0.08230934 | MACD Signal: 0.1716811
+        - ADX: 23.29075983 (Threshold: 22)
+        - ATR: 0.52
+        - Volume: 3095128 (Threshold: 180000)
+        - Support: 192.54 | Resistance: 225.34 ✅ FIXED
+        - Trend: Neutral (Moderate)
+        - Win Probability: 55%
+    
+2025-03-17 22:42:58,580 - INFO - 📩 Telegram Alert Sent Successfully
+2025-03-17 22:42:58,580 - INFO - 📊 Fetching data for META...
+2025-03-17 22:42:58,580 - INFO - Fetching TradingView data for META...
+2025-03-17 22:42:59,010 - INFO - 📊 Volume for META: 749562
+2025-03-17 22:42:59,150 - INFO - 📊 Indicators for META:
+        - Close Price: 604.71
+        - RSI: 50.39792712 (Overbought: 73 / Oversold: 27)
+        - MACD: 0.64316968 | MACD Signal: 0.87263337
+        - ADX: 27.24862025 (Threshold: 29)
+        - ATR: 1.28
+        - Volume: 749562 (Threshold: 160000)
+        - Support: 591.73 | Resistance: 707.14 ✅ FIXED
+        - Trend: Trending 🔥 (Strong)
+        - Win Probability: 75%
+    
+2025-03-17 22:42:59,152 - INFO - 📊 Fetching data for GOOGL...
+2025-03-17 22:42:59,152 - INFO - Fetching TradingView data for GOOGL...
+2025-03-17 22:42:59,516 - INFO - 📊 Volume for GOOGL: 2584686
+2025-03-17 22:42:59,658 - INFO - 📊 Indicators for GOOGL:
+        - Close Price: 164.22
+        - RSI: 32.63853839 (Overbought: 71 / Oversold: 29)
+        - MACD: -0.07355063 | MACD Signal: 0.02026669
+        - ADX: 19.9864684 (Threshold: 27)
+        - ATR: 0.33
+        - Volume: 2584686 (Threshold: 140000)
+        - Support: 162.78 | Resistance: 184.99 ✅ FIXED
+        - Trend: Ranging ⚖️ (Weak)
+        - Win Probability: 50%
+    
+2025-03-17 22:42:59,661 - INFO - 📊 Fetching data for AMD...
+2025-03-17 22:42:59,661 - INFO - Fetching TradingView data for AMD...
+2025-03-17 22:43:00,078 - INFO - 📊 Volume for AMD: 1792105
+2025-03-17 22:43:00,243 - INFO - 📊 Indicators for AMD:
+        - Close Price: 104.59
+        - RSI: 30.97440114 (Overbought: 74 / Oversold: 26)
+        - MACD: 0.00816528 | MACD Signal: 0.16390681
+        - ADX: 22.48754063 (Threshold: 30)
+        - ATR: 0.27
+        - Volume: 1792105 (Threshold: 120000)
+        - Support: 96.01 | Resistance: 115.16 ✅ FIXED
+        - Trend: Neutral (Moderate)
+        - Win Probability: 45%
+    
+2025-03-17 22:43:00,243 - INFO - 📊 Fetching data for BABA...
+2025-03-17 22:43:00,243 - INFO - Fetching TradingView data for BABA...
+2025-03-17 22:43:00,570 - INFO - 📊 Volume for BABA: 1162699
+2025-03-17 22:43:00,682 - INFO - 📊 Indicators for BABA:
+        - Close Price: 147.62
+        - RSI: 46.23129425 (Overbought: 69 / Oversold: 31)
+        - MACD: 0.05547062 | MACD Signal: 0.10375086
+        - ADX: 25.22333515 (Threshold: 25)
+        - ATR: 0.34
+        - Volume: 1162699 (Threshold: 130000)
+        - Support: 126.01 | Resistance: 145.43 ✅ FIXED
+        - Trend: Trending 🔥 (Strong)
+        - Win Probability: 75%
+    
+2025-03-17 22:43:00,682 - INFO - 📊 Fetching data for COIN...
+2025-03-17 22:43:00,682 - INFO - Fetching TradingView data for COIN...
+2025-03-17 22:43:01,292 - INFO - 📊 Volume for COIN: 304533
+2025-03-17 22:43:01,507 - INFO - 📊 Indicators for COIN:
+        - Close Price: 188.95
+        - RSI: 35.72928289 (Overbought: 72 / Oversold: 28)
+        - MACD: 0.13494107 | MACD Signal: 0.68497817
+        - ADX: 38.50396887 (Threshold: 28)
+        - ATR: 0.92
+        - Volume: 304533 (Threshold: 100000)
+        - Support: 179.58 | Resistance: 264.7 ✅ FIXED
+        - Trend: Neutral (Moderate)
+        - Win Probability: 55%
+    
+2025-03-17 22:43:01,508 - INFO - 📊 Fetching data for MSFT...
+2025-03-17 22:43:01,508 - INFO - Fetching TradingView data for MSFT...
+2025-03-17 22:43:02,154 - INFO - 📊 Volume for MSFT: 1733224
+2025-03-17 22:43:02,349 - INFO - 📊 Indicators for MSFT:
+        - Close Price: 388.78
+        - RSI: 29.31189448 (Overbought: 70 / Oversold: 30)
+        - MACD: 0.12172316 | MACD Signal: 0.4900626
+        - ADX: 28.93714664 (Threshold: 26)
+        - ATR: 0.63
+        - Volume: 1733224 (Threshold: 190000)
+        - Support: 378.35 | Resistance: 416.34 ✅ FIXED
+        - Trend: Neutral (Moderate)
+        - Win Probability: 65%
+    
+2025-03-17 22:43:02,982 - INFO - 📩 Telegram Alert Sent Successfully
+2025-03-17 22:43:02,986 - INFO - Waiting for the next cycle...
+2025-03-17 22:43:38,188 - INFO - 🚀 Trading Bot Started!
+2025-03-17 22:43:38,188 - INFO - 📊 Fetching data for AAPL...
+2025-03-17 22:43:38,188 - INFO - Fetching TradingView data for AAPL...
+2025-03-17 22:43:38,704 - INFO - 📊 Volume for AAPL: 3436029
+2025-03-17 22:43:38,770 - INFO - 📊 Indicators for AAPL:
+        - Close Price: 214.15
+        - RSI: 49.5771058 (Overbought: 70 / Oversold: 30)
+        - MACD: 0.36859851 | MACD Signal: 0.48183421
+        - ADX: 40.96149437 (Threshold: 25)
+        - ATR: 0.38
+        - Volume: 3436029 (Threshold: 100000)
+        - Support: 213.67 | Resistance: 215.22 ✅ FIXED
+        - Trend: Trending 🔥 (Strong)
+        - Win Probability: 85%
+    
+2025-03-17 22:43:38,773 - INFO - 📊 Fetching data for TSLA...
+2025-03-17 22:43:38,773 - INFO - Fetching TradingView data for TSLA...
+2025-03-17 22:43:39,138 - INFO - 📊 Volume for TSLA: 2551244
+2025-03-17 22:43:39,263 - INFO - 📊 Indicators for TSLA:
+        - Close Price: 237.8
+        - RSI: 46.80081482 (Overbought: 75 / Oversold: 25)
+        - MACD: 0.20926885 | MACD Signal: 0.38603437
+        - ADX: 21.90479601 (Threshold: 30)
+        - ATR: 1.02
+        - Volume: 2551244 (Threshold: 200000)
+        - Support: 237.14 | Resistance: 239.9 ✅ FIXED
+        - Trend: Neutral (Moderate)
+        - Win Probability: 50%
+    
+2025-03-17 22:43:39,263 - INFO - 📊 Fetching data for NVDA...
+2025-03-17 22:43:39,263 - INFO - Fetching TradingView data for NVDA...
+2025-03-17 22:43:39,694 - INFO - 📊 Volume for NVDA: 8235243
+2025-03-17 22:43:39,774 - INFO - 📊 Indicators for NVDA:
+        - Close Price: 119.48
+        - RSI: 38.53240707 (Overbought: 72 / Oversold: 28)
+        - MACD: 0.04096737 | MACD Signal: 0.18758759
+        - ADX: 19.95122576 (Threshold: 28)
+        - ATR: 0.37
+        - Volume: 8235243 (Threshold: 150000)
+        - Support: 119.42 | Resistance: 120.84 ✅ FIXED
+        - Trend: Ranging ⚖️ (Weak)
+        - Win Probability: 50%
+    
+2025-03-17 22:43:39,774 - INFO - 📊 Fetching data for AMZN...
+2025-03-17 22:43:39,774 - INFO - Fetching TradingView data for AMZN...
+2025-03-17 22:43:40,084 - INFO - 📊 Volume for AMZN: 3095128
+2025-03-17 22:43:40,164 - INFO - 📊 Indicators for AMZN:
+        - Close Price: 195.85
+        - RSI: 27.40751692 (Overbought: 68 / Oversold: 32)
+        - MACD: -0.08230934 | MACD Signal: 0.1716811
+        - ADX: 23.29075983 (Threshold: 22)
+        - ATR: 0.52
+        - Volume: 3095128 (Threshold: 180000)
+        - Support: 195.7 | Resistance: 197.92 ✅ FIXED
+        - Trend: Neutral (Moderate)
+        - Win Probability: 55%
+    
+2025-03-17 22:43:40,164 - ERROR - ⚠️ Error analyzing AMZN: 'secondary'
+2025-03-17 22:43:40,164 - INFO - 📊 Fetching data for META...
+2025-03-17 22:43:40,164 - INFO - Fetching TradingView data for META...
+2025-03-17 22:43:40,614 - INFO - 📊 Volume for META: 749562
+2025-03-17 22:43:40,698 - INFO - 📊 Indicators for META:
+        - Close Price: 604.71
+        - RSI: 50.39792712 (Overbought: 73 / Oversold: 27)
+        - MACD: 0.64316968 | MACD Signal: 0.87263337
+        - ADX: 27.24862025 (Threshold: 29)
+        - ATR: 1.28
+        - Volume: 749562 (Threshold: 160000)
+        - Support: 604.17 | Resistance: 606.96 ✅ FIXED
+        - Trend: Trending 🔥 (Strong)
+        - Win Probability: 75%
+    
+2025-03-17 22:43:40,701 - INFO - 📊 Fetching data for GOOGL...
+2025-03-17 22:43:40,701 - INFO - Fetching TradingView data for GOOGL...
+2025-03-17 22:43:41,164 - INFO - 📊 Volume for GOOGL: 2584686
+2025-03-17 22:43:41,245 - INFO - 📊 Indicators for GOOGL:
+        - Close Price: 164.22
+        - RSI: 32.63853839 (Overbought: 71 / Oversold: 29)
+        - MACD: -0.07355063 | MACD Signal: 0.02026669
+        - ADX: 19.9864684 (Threshold: 27)
+        - ATR: 0.33
+        - Volume: 2584686 (Threshold: 140000)
+        - Support: 163.81 | Resistance: 165.36 ✅ FIXED
+        - Trend: Ranging ⚖️ (Weak)
+        - Win Probability: 50%
+    
+2025-03-17 22:43:41,245 - INFO - 📊 Fetching data for AMD...
+2025-03-17 22:43:41,245 - INFO - Fetching TradingView data for AMD...
+2025-03-17 22:43:41,658 - INFO - 📊 Volume for AMD: 1792105
+2025-03-17 22:43:41,740 - INFO - 📊 Indicators for AMD:
+        - Close Price: 104.59
+        - RSI: 30.97440114 (Overbought: 74 / Oversold: 26)
+        - MACD: 0.00816528 | MACD Signal: 0.16390681
+        - ADX: 22.48754063 (Threshold: 30)
+        - ATR: 0.27
+        - Volume: 1792105 (Threshold: 120000)
+        - Support: 104.5 | Resistance: 105.95 ✅ FIXED
+        - Trend: Neutral (Moderate)
+        - Win Probability: 45%
+    
+2025-03-17 22:43:41,740 - INFO - 📊 Fetching data for BABA...
+2025-03-17 22:43:41,740 - INFO - Fetching TradingView data for BABA...
+2025-03-17 22:43:42,079 - INFO - 📊 Volume for BABA: 1162699
+2025-03-17 22:43:42,141 - INFO - 📊 Indicators for BABA:
+        - Close Price: 147.62
+        - RSI: 46.23129425 (Overbought: 69 / Oversold: 31)
+        - MACD: 0.05547062 | MACD Signal: 0.10375086
+        - ADX: 25.22333515 (Threshold: 25)
+        - ATR: 0.34
+        - Volume: 1162699 (Threshold: 130000)
+        - Support: 147.22 | Resistance: 148.27 ✅ FIXED
+        - Trend: Trending 🔥 (Strong)
+        - Win Probability: 75%
+    
+2025-03-17 22:43:42,141 - INFO - 📊 Fetching data for COIN...
+2025-03-17 22:43:42,141 - INFO - Fetching TradingView data for COIN...
+2025-03-17 22:43:42,422 - INFO - 📊 Volume for COIN: 304533
+2025-03-17 22:43:42,500 - INFO - 📊 Indicators for COIN:
+        - Close Price: 188.95
+        - RSI: 35.72928289 (Overbought: 72 / Oversold: 28)
+        - MACD: 0.13494107 | MACD Signal: 0.68497817
+        - ADX: 38.50396887 (Threshold: 28)
+        - ATR: 0.92
+        - Volume: 304533 (Threshold: 100000)
+        - Support: 188.39 | Resistance: 193.23 ✅ FIXED
+        - Trend: Neutral (Moderate)
+        - Win Probability: 55%
+    
+2025-03-17 22:43:42,502 - INFO - 📊 Fetching data for MSFT...
+2025-03-17 22:43:42,502 - INFO - Fetching TradingView data for MSFT...
+2025-03-17 22:43:42,798 - INFO - 📊 Volume for MSFT: 1733224
+2025-03-17 22:43:42,859 - INFO - 📊 Indicators for MSFT:
+        - Close Price: 388.78
+        - RSI: 29.31189448 (Overbought: 70 / Oversold: 30)
+        - MACD: 0.12172316 | MACD Signal: 0.4900626
+        - ADX: 28.93714664 (Threshold: 26)
+        - ATR: 0.63
+        - Volume: 1733224 (Threshold: 190000)
+        - Support: 388.59 | Resistance: 391.9 ✅ FIXED
+        - Trend: Neutral (Moderate)
+        - Win Probability: 65%
+    
+2025-03-17 22:43:42,859 - ERROR - ⚠️ Error analyzing MSFT: 'secondary'
+2025-03-17 22:43:42,859 - INFO - ⏳ Waiting for the next cycle...
+2025-03-17 22:45:27,188 - INFO - 🛑 Trading Bot Stopped by User
+2025-03-17 22:45:31,539 - INFO - 🚀 Trading Bot Started!
+2025-03-17 22:45:31,539 - INFO - 📊 Fetching data for AAPL...
+2025-03-17 22:45:31,539 - INFO - Fetching TradingView data for AAPL...
+2025-03-17 22:45:32,270 - INFO - 📊 Volume for AAPL: 3436029
+2025-03-17 22:45:32,420 - INFO - 📊 Indicators for AAPL:
+        - Close Price: 214.15
+        - RSI: 49.5771058 (Overbought: 70 / Oversold: 30)
+        - MACD: 0.36859851 | MACD Signal: 0.48183421
+        - ADX: 40.96149437 (Threshold: 25)
+        - ATR: 0.38
+        - Volume: 3436029 (Threshold: 100000)
+        - Support: 213.67 | Resistance: 215.22 ✅ FIXED
+        - Trend: Trending 🔥 (Strong)
+        - Win Probability: 85%
+    
+2025-03-17 22:45:32,422 - INFO - 📊 Fetching data for TSLA...
+2025-03-17 22:45:32,422 - INFO - Fetching TradingView data for TSLA...
+2025-03-17 22:45:32,800 - INFO - 📊 Volume for TSLA: 2551244
+2025-03-17 22:45:32,922 - INFO - 📊 Indicators for TSLA:
+        - Close Price: 237.8
+        - RSI: 46.80081482 (Overbought: 75 / Oversold: 25)
+        - MACD: 0.20926885 | MACD Signal: 0.38603437
+        - ADX: 21.90479601 (Threshold: 30)
+        - ATR: 1.02
+        - Volume: 2551244 (Threshold: 200000)
+        - Support: 237.14 | Resistance: 239.9 ✅ FIXED
+        - Trend: Neutral (Moderate)
+        - Win Probability: 50%
+    
+2025-03-17 22:45:32,922 - INFO - 📊 Fetching data for NVDA...
+2025-03-17 22:45:32,924 - INFO - Fetching TradingView data for NVDA...
+2025-03-17 22:45:33,252 - INFO - 📊 Volume for NVDA: 8235243
+2025-03-17 22:45:33,348 - INFO - 📊 Indicators for NVDA:
+        - Close Price: 119.48
+        - RSI: 38.53240707 (Overbought: 72 / Oversold: 28)
+        - MACD: 0.04096737 | MACD Signal: 0.18758759
+        - ADX: 19.95122576 (Threshold: 28)
+        - ATR: 0.37
+        - Volume: 8235243 (Threshold: 150000)
+        - Support: 119.42 | Resistance: 120.84 ✅ FIXED
+        - Trend: Ranging ⚖️ (Weak)
+        - Win Probability: 50%
+    
+2025-03-17 22:45:33,350 - INFO - 📊 Fetching data for AMZN...
+2025-03-17 22:45:33,350 - INFO - Fetching TradingView data for AMZN...
+2025-03-17 22:45:33,698 - INFO - 📊 Volume for AMZN: 3095128
+2025-03-17 22:45:33,863 - INFO - 📊 Indicators for AMZN:
+        - Close Price: 195.85
+        - RSI: 27.40751692 (Overbought: 68 / Oversold: 32)
+        - MACD: -0.08230934 | MACD Signal: 0.1716811
+        - ADX: 23.29075983 (Threshold: 22)
+        - ATR: 0.52
+        - Volume: 3095128 (Threshold: 180000)
+        - Support: 195.7 | Resistance: 197.92 ✅ FIXED
+        - Trend: Neutral (Moderate)
+        - Win Probability: 55%
+    
+2025-03-17 22:45:33,863 - ERROR - ⚠️ Error analyzing AMZN: 'secondary'
+2025-03-17 22:45:33,863 - INFO - 📊 Fetching data for META...
+2025-03-17 22:45:33,863 - INFO - Fetching TradingView data for META...
+2025-03-17 22:45:34,250 - INFO - 📊 Volume for META: 749562
+2025-03-17 22:45:34,340 - INFO - 📊 Indicators for META:
+        - Close Price: 604.71
+        - RSI: 50.39792712 (Overbought: 73 / Oversold: 27)
+        - MACD: 0.64316968 | MACD Signal: 0.87263337
+        - ADX: 27.24862025 (Threshold: 29)
+        - ATR: 1.28
+        - Volume: 749562 (Threshold: 160000)
+        - Support: 604.17 | Resistance: 606.96 ✅ FIXED
+        - Trend: Trending 🔥 (Strong)
+        - Win Probability: 75%
+    
+2025-03-17 22:45:34,342 - INFO - 📊 Fetching data for GOOGL...
+2025-03-17 22:45:34,342 - INFO - Fetching TradingView data for GOOGL...
+2025-03-17 22:45:34,668 - INFO - 📊 Volume for GOOGL: 2584686
+2025-03-17 22:45:34,812 - INFO - 📊 Indicators for GOOGL:
+        - Close Price: 164.22
+        - RSI: 32.63853839 (Overbought: 71 / Oversold: 29)
+        - MACD: -0.07355063 | MACD Signal: 0.02026669
+        - ADX: 19.9864684 (Threshold: 27)
+        - ATR: 0.33
+        - Volume: 2584686 (Threshold: 140000)
+        - Support: 163.81 | Resistance: 165.36 ✅ FIXED
+        - Trend: Ranging ⚖️ (Weak)
+        - Win Probability: 50%
+    
+2025-03-17 22:45:34,814 - INFO - 📊 Fetching data for AMD...
+2025-03-17 22:45:34,814 - INFO - Fetching TradingView data for AMD...
+2025-03-17 22:45:35,174 - INFO - 📊 Volume for AMD: 1792105
+2025-03-17 22:45:35,241 - INFO - 📊 Indicators for AMD:
+        - Close Price: 104.59
+        - RSI: 30.97440114 (Overbought: 74 / Oversold: 26)
+        - MACD: 0.00816528 | MACD Signal: 0.16390681
+        - ADX: 22.48754063 (Threshold: 30)
+        - ATR: 0.27
+        - Volume: 1792105 (Threshold: 120000)
+        - Support: 104.5 | Resistance: 105.95 ✅ FIXED
+        - Trend: Neutral (Moderate)
+        - Win Probability: 45%
+    
+2025-03-17 22:45:35,241 - INFO - 📊 Fetching data for BABA...
+2025-03-17 22:45:35,241 - INFO - Fetching TradingView data for BABA...
+2025-03-17 22:45:35,622 - INFO - 📊 Volume for BABA: 1162699
+2025-03-17 22:45:35,755 - INFO - 📊 Indicators for BABA:
+        - Close Price: 147.62
+        - RSI: 46.23129425 (Overbought: 69 / Oversold: 31)
+        - MACD: 0.05547062 | MACD Signal: 0.10375086
+        - ADX: 25.22333515 (Threshold: 25)
+        - ATR: 0.34
+        - Volume: 1162699 (Threshold: 130000)
+        - Support: 147.22 | Resistance: 148.27 ✅ FIXED
+        - Trend: Trending 🔥 (Strong)
+        - Win Probability: 75%
+    
+2025-03-17 22:45:35,755 - INFO - 📊 Fetching data for COIN...
+2025-03-17 22:45:35,757 - INFO - Fetching TradingView data for COIN...
+2025-03-17 22:45:36,095 - INFO - 📊 Volume for COIN: 304533
+2025-03-17 22:45:36,164 - INFO - 📊 Indicators for COIN:
+        - Close Price: 188.95
+        - RSI: 35.72928289 (Overbought: 72 / Oversold: 28)
+        - MACD: 0.13494107 | MACD Signal: 0.68497817
+        - ADX: 38.50396887 (Threshold: 28)
+        - ATR: 0.92
+        - Volume: 304533 (Threshold: 100000)
+        - Support: 188.39 | Resistance: 193.23 ✅ FIXED
+        - Trend: Neutral (Moderate)
+        - Win Probability: 55%
+    
+2025-03-17 22:45:36,164 - INFO - 📊 Fetching data for MSFT...
+2025-03-17 22:45:36,164 - INFO - Fetching TradingView data for MSFT...
+2025-03-17 22:45:36,454 - INFO - 📊 Volume for MSFT: 1733224
+2025-03-17 22:45:36,581 - INFO - 📊 Indicators for MSFT:
+        - Close Price: 388.78
+        - RSI: 29.31189448 (Overbought: 70 / Oversold: 30)
+        - MACD: 0.12172316 | MACD Signal: 0.4900626
+        - ADX: 28.93714664 (Threshold: 26)
+        - ATR: 0.63
+        - Volume: 1733224 (Threshold: 190000)
+        - Support: 388.59 | Resistance: 391.9 ✅ FIXED
+        - Trend: Neutral (Moderate)
+        - Win Probability: 65%
+    
+2025-03-17 22:45:36,583 - ERROR - ⚠️ Error analyzing MSFT: 'secondary'
+2025-03-17 22:45:36,583 - INFO - ⏳ Waiting for the next cycle...
+2025-03-17 22:47:41,452 - INFO - 🛑 Trading Bot Stopped by User
+2025-03-17 22:47:46,078 - INFO - 🚀 Trading Bot Started!
+2025-03-17 22:47:46,078 - INFO - 📊 Fetching data for AAPL...
+2025-03-17 22:47:46,078 - INFO - Fetching TradingView data for AAPL...
+2025-03-17 22:47:46,804 - INFO - 📊 Volume for AAPL: 3436029
+2025-03-17 22:47:46,972 - INFO - 📊 Indicators for AAPL:
+        - Close Price: 214.15
+        - RSI: 49.5771058 (Overbought: 70 / Oversold: 30)
+        - MACD: 0.36859851 | MACD Signal: 0.48183421
+        - ADX: 40.96149437 (Threshold: 25)
+        - ATR: 0.38
+        - Volume: 3436029 (Threshold: 100000)
+        - Support: 213.67 | Resistance: 215.22 ✅ FIXED
+        - Trend: Trending 🔥 (Strong)
+        - Win Probability: 85%
+    
+2025-03-17 22:47:46,974 - INFO - 📊 Fetching data for TSLA...
+2025-03-17 22:47:46,974 - INFO - Fetching TradingView data for TSLA...
+2025-03-17 22:47:47,418 - INFO - 📊 Volume for TSLA: 2551244
+2025-03-17 22:47:47,550 - INFO - 📊 Indicators for TSLA:
+        - Close Price: 237.8
+        - RSI: 46.80081482 (Overbought: 75 / Oversold: 25)
+        - MACD: 0.20926885 | MACD Signal: 0.38603437
+        - ADX: 21.90479601 (Threshold: 30)
+        - ATR: 1.02
+        - Volume: 2551244 (Threshold: 200000)
+        - Support: 237.14 | Resistance: 239.9 ✅ FIXED
+        - Trend: Neutral (Moderate)
+        - Win Probability: 50%
+    
+2025-03-17 22:47:47,550 - INFO - 📊 Fetching data for NVDA...
+2025-03-17 22:47:47,550 - INFO - Fetching TradingView data for NVDA...
+2025-03-17 22:47:47,966 - INFO - 📊 Volume for NVDA: 8235243
+2025-03-17 22:47:48,054 - INFO - 📊 Indicators for NVDA:
+        - Close Price: 119.48
+        - RSI: 38.53240707 (Overbought: 72 / Oversold: 28)
+        - MACD: 0.04096737 | MACD Signal: 0.18758759
+        - ADX: 19.95122576 (Threshold: 28)
+        - ATR: 0.37
+        - Volume: 8235243 (Threshold: 150000)
+        - Support: 119.42 | Resistance: 120.84 ✅ FIXED
+        - Trend: Ranging ⚖️ (Weak)
+        - Win Probability: 50%
+    
+2025-03-17 22:47:48,054 - INFO - 📊 Fetching data for AMZN...
+2025-03-17 22:47:48,054 - INFO - Fetching TradingView data for AMZN...
+2025-03-17 22:47:48,407 - INFO - 📊 Volume for AMZN: 3095128
+2025-03-17 22:47:48,470 - INFO - 📊 Indicators for AMZN:
+        - Close Price: 195.85
+        - RSI: 27.40751692 (Overbought: 68 / Oversold: 32)
+        - MACD: -0.08230934 | MACD Signal: 0.1716811
+        - ADX: 23.29075983 (Threshold: 22)
+        - ATR: 0.52
+        - Volume: 3095128 (Threshold: 180000)
+        - Support: 195.7 | Resistance: 197.92 ✅ FIXED
+        - Trend: Neutral (Moderate)
+        - Win Probability: 55%
+    
+2025-03-17 22:47:48,972 - INFO - 📩 Telegram Alert Sent Successfully to Chat ID 5620276632 ✅
+2025-03-17 22:47:49,440 - INFO - 📩 Telegram Alert Sent Successfully to Chat ID 5662316389 ✅
+2025-03-17 22:47:49,444 - INFO - 📊 Fetching data for META...
+2025-03-17 22:47:49,444 - INFO - Fetching TradingView data for META...
+2025-03-17 22:47:49,893 - INFO - 📊 Volume for META: 749562
+2025-03-17 22:47:50,064 - INFO - 📊 Indicators for META:
+        - Close Price: 604.71
+        - RSI: 50.39792712 (Overbought: 73 / Oversold: 27)
+        - MACD: 0.64316968 | MACD Signal: 0.87263337
+        - ADX: 27.24862025 (Threshold: 29)
+        - ATR: 1.28
+        - Volume: 749562 (Threshold: 160000)
+        - Support: 604.17 | Resistance: 606.96 ✅ FIXED
+        - Trend: Trending 🔥 (Strong)
+        - Win Probability: 75%
+    
+2025-03-17 22:47:50,066 - INFO - 📊 Fetching data for GOOGL...
+2025-03-17 22:47:50,066 - INFO - Fetching TradingView data for GOOGL...
+2025-03-17 22:47:50,356 - INFO - 📊 Volume for GOOGL: 2584686
+2025-03-17 22:47:50,448 - INFO - 📊 Indicators for GOOGL:
+        - Close Price: 164.22
+        - RSI: 32.63853839 (Overbought: 71 / Oversold: 29)
+        - MACD: -0.07355063 | MACD Signal: 0.02026669
+        - ADX: 19.9864684 (Threshold: 27)
+        - ATR: 0.33
+        - Volume: 2584686 (Threshold: 140000)
+        - Support: 163.81 | Resistance: 165.36 ✅ FIXED
+        - Trend: Ranging ⚖️ (Weak)
+        - Win Probability: 50%
+    
+2025-03-17 22:47:50,449 - INFO - 📊 Fetching data for AMD...
+2025-03-17 22:47:50,450 - INFO - Fetching TradingView data for AMD...
+2025-03-17 22:47:50,774 - INFO - 📊 Volume for AMD: 1792105
+2025-03-17 22:47:50,842 - INFO - 📊 Indicators for AMD:
+        - Close Price: 104.59
+        - RSI: 30.97440114 (Overbought: 74 / Oversold: 26)
+        - MACD: 0.00816528 | MACD Signal: 0.16390681
+        - ADX: 22.48754063 (Threshold: 30)
+        - ATR: 0.27
+        - Volume: 1792105 (Threshold: 120000)
+        - Support: 104.5 | Resistance: 105.95 ✅ FIXED
+        - Trend: Neutral (Moderate)
+        - Win Probability: 45%
+    
+2025-03-17 22:47:50,842 - INFO - 📊 Fetching data for BABA...
+2025-03-17 22:47:50,842 - INFO - Fetching TradingView data for BABA...
+2025-03-17 22:47:51,218 - INFO - 📊 Volume for BABA: 1162699
+2025-03-17 22:47:51,325 - INFO - 📊 Indicators for BABA:
+        - Close Price: 147.62
+        - RSI: 46.23129425 (Overbought: 69 / Oversold: 31)
+        - MACD: 0.05547062 | MACD Signal: 0.10375086
+        - ADX: 25.22333515 (Threshold: 25)
+        - ATR: 0.34
+        - Volume: 1162699 (Threshold: 130000)
+        - Support: 147.22 | Resistance: 148.27 ✅ FIXED
+        - Trend: Trending 🔥 (Strong)
+        - Win Probability: 75%
+    
+2025-03-17 22:47:51,328 - INFO - 📊 Fetching data for COIN...
+2025-03-17 22:47:51,328 - INFO - Fetching TradingView data for COIN...
+2025-03-17 22:47:51,658 - INFO - 📊 Volume for COIN: 304533
+2025-03-17 22:47:51,824 - INFO - 📊 Indicators for COIN:
+        - Close Price: 188.95
+        - RSI: 35.72928289 (Overbought: 72 / Oversold: 28)
+        - MACD: 0.13494107 | MACD Signal: 0.68497817
+        - ADX: 38.50396887 (Threshold: 28)
+        - ATR: 0.92
+        - Volume: 304533 (Threshold: 100000)
+        - Support: 188.39 | Resistance: 193.23 ✅ FIXED
+        - Trend: Neutral (Moderate)
+        - Win Probability: 55%
+    
+2025-03-17 22:47:51,826 - INFO - 📊 Fetching data for MSFT...
+2025-03-17 22:47:51,826 - INFO - Fetching TradingView data for MSFT...
+2025-03-17 22:47:52,182 - INFO - 📊 Volume for MSFT: 1733224
+2025-03-17 22:47:52,294 - INFO - 📊 Indicators for MSFT:
+        - Close Price: 388.78
+        - RSI: 29.31189448 (Overbought: 70 / Oversold: 30)
+        - MACD: 0.12172316 | MACD Signal: 0.4900626
+        - ADX: 28.93714664 (Threshold: 26)
+        - ATR: 0.63
+        - Volume: 1733224 (Threshold: 190000)
+        - Support: 388.59 | Resistance: 391.9 ✅ FIXED
+        - Trend: Neutral (Moderate)
+        - Win Probability: 65%
+    
+2025-03-17 22:47:52,745 - INFO - 📩 Telegram Alert Sent Successfully to Chat ID 5620276632 ✅
+2025-03-17 22:47:53,202 - INFO - 📩 Telegram Alert Sent Successfully to Chat ID 5662316389 ✅
+2025-03-17 22:47:53,204 - INFO - ⏳ Waiting for the next cycle...
+2025-03-17 22:48:26,781 - INFO - 🛑 Trading Bot Stopped by User

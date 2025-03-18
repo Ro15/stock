@@ -43,12 +43,12 @@ def get_multi_timeframe_analysis(stock):
         logging.info(f"📊 Volume for {stock['symbol']}: {volume}")
 
         # ✅ Fetch Support & Resistance (Only from 5m timeframe)
-        sr_levels = get_support_resistance_multi_tf(stock)
-        analysis_data["5m"]["Support"] = sr_levels.get("5m", {}).get("Support", "No Data")
-        analysis_data["5m"]["Resistance"] = sr_levels.get("5m", {}).get("Resistance", "No Data")
+        support, resistance = calculate_support_resistance(stock["symbol"])
+        analysis_data["5m"]["Support"] = support
+        analysis_data["5m"]["Resistance"] = resistance
 
         # ✅ Calculate ATR manually if missing
-        if "ATR" not in analysis_data["5m"] or analysis_data["5m"]["ATR"] is None:
+        if not analysis_data["5m"].get("ATR"):
             analysis_data["5m"]["ATR"] = calculate_atr(hist)
 
         return analysis_data
@@ -57,33 +57,25 @@ def get_multi_timeframe_analysis(stock):
         logging.error(f"⚠️ Error fetching TradingView data for {stock['symbol']}: {e}")
         return {}
 
-
-def get_support_resistance_multi_tf(stock):
-    """ Fetches Support & Resistance from the 5m timeframe using Yahoo Finance """
+def calculate_support_resistance(symbol):
+    """ Fetches Support & Resistance levels using Yahoo Finance historical data. """
     try:
-        ticker = yf.Ticker(stock["symbol"])
-        hist = ticker.history(period="7d", interval="5m")  # Fetch 5m data only
+        stock = yf.Ticker(symbol)
+        hist = stock.history(period="7d", interval="5m")
 
         if hist.empty:
-            return {"5m": {"Support": "No Data", "Resistance": "No Data"}}
+            return "No Data", "No Data"
 
-        # Calculate Support & Resistance based on rolling window
-        pivot_low = hist["Low"].rolling(window=10).min()
-        pivot_high = hist["High"].rolling(window=10).max()
+        # ✅ Use Rolling Window for Dynamic Support/Resistance Calculation
+        support = hist["Low"].rolling(window=10).min().iloc[-1]
+        resistance = hist["High"].rolling(window=10).max().iloc[-1]
 
-        support = pivot_low.iloc[-1]
-        resistance = pivot_high.iloc[-1]
-
-        return {
-            "5m": {
-                "Support": round(support, 2) if not np.isnan(support) else "No Data",
-                "Resistance": round(resistance, 2) if not np.isnan(resistance) else "No Data"
-            }
-        }
+        return round(support, 2) if not np.isnan(support) else "No Data", \
+               round(resistance, 2) if not np.isnan(resistance) else "No Data"
 
     except Exception as e:
-        logging.error(f"⚠️ Error fetching Support/Resistance for {stock['symbol']}: {e}")
-        return {"5m": {"Support": "No Data", "Resistance": "No Data"}}
+        logging.error(f"⚠️ Error fetching Support/Resistance for {symbol}: {e}")
+        return "No Data", "No Data"
 
 def calculate_atr(hist, period=14):
     """ Manually calculates ATR using Yahoo Finance data. """
@@ -141,33 +133,3 @@ def detect_trend_condition(adx, ema50, close_price):
         return "Ranging ⚖️", "Weak"
     else:
         return "Neutral", "Moderate"
-    
-def fetch_historical_data(symbol, period="1mo", interval="1h"):
-    """Fetch historical data for a given stock symbol from Yahoo Finance."""
-    try:
-        stock = yf.Ticker(symbol)
-        hist = stock.history(period=period, interval=interval)
-        if hist.empty:
-            logging.warning(f"⚠️ No data found for {symbol}")
-            return None
-        return hist
-    except Exception as e:
-        logging.error(f"⚠️ Error fetching data for {symbol}: {e}")
-        return None
-
-def calculate_support_resistance(symbol):
-    """Calculates support & resistance levels for a stock using historical data."""
-    hist = fetch_historical_data(symbol)
-    if hist is None or hist.empty:
-        return None, None
-
-    highs = hist["High"]
-    lows = hist["Low"]
-
-    # ✅ Define Support as the lowest 5% of price action
-    support = np.percentile(lows, 5)
-    
-    # ✅ Define Resistance as the highest 95% of price action
-    resistance = np.percentile(highs, 95)
-
-    return round(support, 2), round(resistance, 2)
