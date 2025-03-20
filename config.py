@@ -13,3 +13,10 @@ STOCKS = [
 ]
 
 
+TELEGRAM_BOT_TOKEN = {"primary":"7996722753:AAF2wJHA2AxWxg3AHYRTgUpPsMkmxrSitnI",
+                      "secondary":"7343346012:AAFiMGtLYFyV07-e9CfEPqeDzGVSArd7jaY"
+                      }
+
+TELEGRAM_CHAT_ID = {"primary":"5620276632",
+                   "secondary":"5662316389"
+                    }
